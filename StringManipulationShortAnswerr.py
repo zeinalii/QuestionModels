@@ -6,14 +6,10 @@
 import random
 import string 
 
-class StringShortAnswer:
-    def __init__(self,QUESTION,ANSWER):
-        """
-        q = \"""What is the result of "{string}".{method}{indeces}?\"""
-        c = "{answer}"
-        """
-        self.QUESTION   = QUESTION
-        self.ANSWER   = ANSWER
+class StringManipulationShortAnswer:
+    def __init__(self):
+        self.QUESTION   = """What is the result of "{string}".{method}{indeces}?"""
+        self.ANSWER   = "{answer}"
         
     def getQuestion (self):
         self.QUESTION
@@ -182,20 +178,59 @@ class StringShortAnswer:
         elif method == 'indexOf':
             return self.indexOf()
 
+
+
+
+
+
+
+
+
+
+
         
 if __name__ == "__main__":
     
-    q = """What is the result of "{string}".{method}{indeces}?"""
-    a = "{answer}"
-
-    shortanswer = StringShortAnswer(q,a)
+    shortanswer = StringManipulationShortAnswer()
+    
     # We can call them separately 
     _ = shortanswer.length()
+        """
+            What is the result of "vrQVF".length()?
+            
+            Answer:  5      
+        """        
     _ = shortanswer.charAt()
+        """
+            What is the result of "MQhgP".charAt(2)?
+            
+            Answer:  h        
+        """   
     _ = shortanswer.contains()
+        """
+            What is the result of "zoimCX".contains("io")?
+            
+            Answer:  false        
+        """
     _ = shortanswer.equals()
+        """
+            What is the result of "LjklSzUG".equals("LjklSzUG")?
+            
+            Answer:  true        
+        """
     _ = shortanswer.replace()
+        """
+            What is the result of "bljlv".replace("l","@")?
+            
+            Answer:  b@j@v4        
+        """
     _ = shortanswer.indexOf()
+        """
+        Example: 
+                What is the result of "wlgqlYG".indexOf("l",4)?
+                
+                Answer:  4        
+        """
     # calling randomly
     _ = shortanswer.generate()
 
