@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 19 05:15:10 2020
-
-@author: AmirHossein
-"""
-
 
 
 # Short Answer
@@ -66,6 +59,16 @@ if __name__ == "__main__":
     
     mathexpression = MathExpression()
     _ = mathexpression.generate()
-
+    """
+    Result:
+        The expression 2 + 24 / (1 - 3) * 2 is evaluated to
+        .  -22.00
+        .  -4.00
+        .  -26.00
+        .  -6.50
+        .  14.00
+        
+        Answer:  -22.00
+    """
 
      
