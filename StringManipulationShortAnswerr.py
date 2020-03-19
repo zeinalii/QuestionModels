@@ -195,42 +195,42 @@ if __name__ == "__main__":
     
     # We can call them separately 
     _ = shortanswer.length()
-        """
-            What is the result of "vrQVF".length()?
-            
-            Answer:  5      
-        """        
+    """
+        What is the result of "vrQVF".length()?
+        
+        Answer:  5      
+    """        
     _ = shortanswer.charAt()
-        """
-            What is the result of "MQhgP".charAt(2)?
-            
-            Answer:  h        
-        """   
+    """
+        What is the result of "MQhgP".charAt(2)?
+        
+        Answer:  h        
+    """   
     _ = shortanswer.contains()
-        """
-            What is the result of "zoimCX".contains("io")?
-            
-            Answer:  false        
-        """
+    """
+        What is the result of "zoimCX".contains("io")?
+        
+        Answer:  false        
+    """
     _ = shortanswer.equals()
-        """
-            What is the result of "LjklSzUG".equals("LjklSzUG")?
-            
-            Answer:  true        
-        """
+    """
+        What is the result of "LjklSzUG".equals("LjklSzUG")?
+        
+        Answer:  true        
+    """
     _ = shortanswer.replace()
-        """
-            What is the result of "bljlv".replace("l","@")?
-            
-            Answer:  b@j@v4        
-        """
+    """
+        What is the result of "bljlv".replace("l","@")?
+        
+        Answer:  b@j@v4        
+    """
     _ = shortanswer.indexOf()
-        """
-        Example: 
-                What is the result of "wlgqlYG".indexOf("l",4)?
-                
-                Answer:  4        
-        """
+    """
+    Example: 
+            What is the result of "wlgqlYG".indexOf("l",4)?
+            
+            Answer:  4        
+    """
     # calling randomly
     _ = shortanswer.generate()
 
