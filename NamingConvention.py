@@ -46,31 +46,31 @@ class Name:
     
     
     def get_wrong_variable_name(self):
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['name']).upper()
-        elif random.random() < 0.3:
+        elif random.random() < 0.25:
             return random.choice(self.name['verb'])
-        elif random.random() < 0.3:
+        elif random.random() < 0.25:
             return random.choice(self.name['reservedWords']).lower()
     
     
     def get_correct_method_name(self):
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower()
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['adjective'])
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['name'])
         else:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['descriptiveName'])
     
     
     def get_wrong_method_name(self):
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower()
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['adjective']).lower()
-        if random.random() < 0.3:
+        if random.random() < 0.25:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['name']).lower()
         else:
             return random.choice(self.name['verb']).lower() + random.choice(self.name['descriptiveName']).lower()
