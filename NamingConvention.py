@@ -1,101 +1,95 @@
-
 import random
-
-
-
+import json
 
 """
 public class MyClass {
-  static void myMethod() {
-    System.out.println("I just got executed!");
+  static double getArea() {
+    double Pi_Number = 3.14159;
+    double radius = 5;
+    return Pi_Number * radius * radius;
   }
 
   public static void main(String[] args) {
-    myMethod();
+    System.out.println(getArea());
   }
 }
 """
 
 
-
-
-
-
-
-def getVerb():
-    verb = ['find',
-            'get',
-            'send',
-            'print',
-            'compare',
-            'remove',
-            'delete',
-            'copy',
-            'clone']
-    return random.choice(verb)
+class Name:
+    def __init__(self, name):
+        self.name = name
             
-def getDescriptiveName():
-    DescriptiveName = ['area',
-            'angle',
-            'size',
-            'length',
-            'age',
-            'point',
-            'name',
-            'id',
-            'speed ']
-    return random.choice(DescriptiveName)
+    # < --------------------- >
+    def get_correct_class_name(self):
+        return random.choice(self.name['name'])
+    
+    
+    def get_wrong_class_name(self):
+        if random.random() < 0.3:
+            return random.choice(self.name['name']).lower()
+        elif random.random() < 0.3:
+            return random.choice(self.name['name']).upper()
+        elif random.random() < 0.3:
+            return random.choice(self.name['adjective']).lower()
+        elif random.random() < 0.3:
+            return random.choice(self.name['reservedWords']).lower()
+        else:
+            return random.choice(self.name['verb'])
+    
+        # < --------------------- >
+    
+    
+    def get_correct_variable_name(self):
+        if random.random() < 0.3:
+            return random.choice(self.name['descriptiveName']).lower()
+        else:
+            return random.choice(self.name['name']).lower() + random.choice(self.name['descriptiveName'])
+    
+    
+    def get_wrong_variable_name(self):
+        if random.random() < 0.3:
+            return random.choice(self.name['name']).upper()
+        elif random.random() < 0.3:
+            return random.choice(self.name['verb'])
+        elif random.random() < 0.3:
+            return random.choice(self.name['reservedWords']).lower()
 
-def getName():
-    name = ["Car",
-            "Bird",
-            "Plane",
-            "Board",
-            "Player",
-            "Animal"]
-    return random.choice(name)
+        # < --------------------- >
+    
+    
+    def get_correct_method_name(self):
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower()
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['adjective'])
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['name'])
+        else:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['descriptiveName'])
+    
+    
+    def get_wrong_method_name(self):
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower()
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['adjective']).lower()
+        if random.random() < 0.3:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['name']).lower()
+        else:
+            return random.choice(self.name['verb']).lower() + random.choice(self.name['descriptiveName']).lower()
 
-def getAdjective():
-    adjective = ["max",
-                 "min",
-                 "midle",
-                 "final",
-                 "fist",
-                 "last"]
-    return random.choice(adjective)
 
-def getReservedWords():
-    ReservedWords = ["class",
-             "for",
-             "implement",
-             "while",
-             "goto",
-             "end",
-             "else"
-            ]
-    return random.choice(ReservedWords)
-
-def getVariableName():
-    DescriptiveName = getDescriptiveName()
-    return (getAdjective() + 
-            DescriptiveName[0].capitalize() + 
-            DescriptiveName[1:])
+if __name__=="__main__":
     
-def getWrongVariableName():
-    if random.random() < 0.3:
-        return getReservedWords()
-    elif random.random() < 0.3:
-        return getVariableName().lower()
+    with open('javanameconvention.json') as f:
+        name = json.load(f)
+    name = Name(name)
+    print(name.get_correct_class_name())
+    print(name.get_correct_variable_name())
+    print(name.get_correct_method_name())
+    print(name.get_wrong_class_name())
+    print(name.get_wrong_variable_name())
+    print(name.get_wrong_method_name())
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
- 
