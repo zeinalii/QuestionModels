@@ -36,9 +36,7 @@ class Name:
             return random.choice(self.name['reservedWords']).lower()
         else:
             return random.choice(self.name['verb'])
-    
-        # < --------------------- >
-    
+        
     
     def get_correct_variable_name(self):
         if random.random() < 0.3:
@@ -54,8 +52,6 @@ class Name:
             return random.choice(self.name['verb'])
         elif random.random() < 0.3:
             return random.choice(self.name['reservedWords']).lower()
-
-        # < --------------------- >
     
     
     def get_correct_method_name(self):
@@ -104,12 +100,21 @@ if __name__=="__main__":
     
     # generate a class name
     print(name.generateClass())
-    
+    """
+    Example:
+        ['Plane', True]
+    """
     # generate a variable name
     print(name.generateVariable())
-    
+    """
+    Example:
+        ['size', True]
+    """    
     # generate a method name
     print(name.generateMethod())
-
+    """
+    Example:
+        ['copy', False]
+    """
     
     
