@@ -85,11 +85,11 @@ if __name__=="__main__":
     with open('javanameconvention.json') as f:
         name = json.load(f)
     name = Name(name)
-    print(name.get_correct_class_name())
-    print(name.get_correct_variable_name())
-    print(name.get_correct_method_name())
-    print(name.get_wrong_class_name())
-    print(name.get_wrong_variable_name())
-    print(name.get_wrong_method_name())
+    print("-> correct class name: ", name.get_correct_class_name())
+    print("-> correct variable name: ", name.get_correct_variable_name())
+    print("-> correct method name: ", name.get_correct_method_name())
+    print("-> wrong Class name: ", name.get_wrong_class_name())
+    print("-> wrong variable name: ", name.get_wrong_variable_name())
+    print("-> wrong method name: ", name.get_wrong_method_name())
     
     
