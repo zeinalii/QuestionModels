@@ -1,13 +1,13 @@
-
-
-
 import random
 import string 
 
 class MultipleChoiceStringManipulation:
-    def __init__(self,QUESTION,CHOICES):
-        self.QUESTION   = QUESTION
-        self.CHOICES    = CHOICES
+    def __init__(self):
+        self.QUESTION   = """What is the return value of "{string}".{method}{indeces}?"""
+        self.CHOICES    = [   "{a}",
+                            "{b}",
+                            "{c}",
+                            "{d}"]
         
     def getQuestion (self):
         self.QUESTION
@@ -35,19 +35,19 @@ class MultipleChoiceStringManipulation:
         X['method'] = "substring"                                            # method we want to use
         X['string'] = self.randomString(random.randint(5,10))                # generating a random un-repeated string with length of stringLength
         a           = random.randint(1,len(X['string'])-1)                   # lower bound   1<=a<=len(STRING)-1
-        b           = random.randint(a,len(X['string'])-1)                   # upper bound a <=b<=len(STRING)
+        b           = random.randint(a,len(X['string'])-1)                   # upper bound a <=b<=len(STRING) -1 
         X['indeces']= (a,b)                                                  # creating (a,b)  
         #  choices
         if (X['string'][a:b] == ""):
-            X['a']  = "an empty string"          #  choice a is                                 
-            X['b']  = "Error"                    #  choice b                                
+            X['a']  = "an empty string"          #  choice a is theCorrect answer                             
+            X['b']  = "Syntax error (illegal expression)"                    #  choice b     TODO: Explain                           
         else:
             X['a']  =   X['string'][a:b]         #  choice a
             X['b']  = X['string'][a+1:b+1]       #  choice b
         X['c'] = X['string'][a: b+1]             #  choice c
         if len(X['string']) == b+1:
             X['d'] = X['string'][a-2: b+1]       #  choice d
-        else:
+        else:                   #TODO: expain
             if X['string'][a+1:b+2] == "":
                 X['d'] = "an empty string"
             else:
@@ -93,27 +93,27 @@ class MultipleChoiceStringManipulation:
         X           = {}
         X['method'] = "indexOf"                                            # method we want to use
         X['string'] = self.randomString(random.randint(5,10))              # generating a random un-repeated string with length of stringLength
-        i           = random.randint(1,len(X['string'])-1)                 # lower bound   1<=a<=len(STRING)-1
-        a           = X['string'][i:i+2]
-        b           = random.randint(0,len(X['string'])-1)                 # upper bound a <=b<=len(STRING)
-        X['indeces']= (a,b)                                                # creating (a,b)         
-        #  choices
-        try: 
-            X['a'] = X['string'].index(a,b)
-            X['b'] = X['a'] - 1
-            X['c'] = X['a'] + 1
+        i           = random.randint(0,len(X['string'])-1)                 # lower bound   1<=a<=len(STRING)-1
+        if random.random() < 0.5:                                          #the character is inside the string
+            a           = X['string'][i]
+            X['indeces']= "('{}')".format(a) 
+            X['a']      = X['string'].index(a)
+            X['b']      = X['a'] - 1
+            X['c']      = X['a'] + 1
+            X['d']      = X['a'] + 2
+                                                     
+        else: 
+            a           = X['string'][i].lower() if X['string'][i].isupper() else X['string'][i].upper()
+            X['indeces']= "('{}')".format(a) 
+            X['a']      = -1
+            X['b']      = "false" 
+            X['c']      = i
             if X['c'] == len(X['string']):
-                X['d'] = -1
+                X['d']  = i - 1
             else:
-                X['d'] = X['a'] + 2
-        except ValueError:
-            X['a'] = -1
-            X['b'] = X['string'].index(a)
-            X['c'] = X['b'] + 1
-            if X['c'] == len(X['string']):
-                X['d'] = -1
-            else:
-                X['d'] = X['b'] + 2
+                X['d']  = i + 1            
+
+
         return self.GenerateQuestion(X)
     def generate(self):
         n = random.randint(1,2)
@@ -134,13 +134,8 @@ class MultipleChoiceStringManipulation:
 
 if __name__ == "__main__":
     
-    q = """What is the return value of "{string}".{method}{indeces}?"""
-    c = [   "{a}",
-            "{b}",
-            "{c}",
-            "{d}"]
 
-    stringmanipulation = MultipleChoiceStringManipulation(q,c)
+    stringmanipulation = MultipleChoiceStringManipulation()
     [QUESTION, CHOICES, ANSWER] = stringmanipulation.generateIndexOfQuestion()
     [QUESTION, CHOICES, ANSWER] = stringmanipulation.generateSubstringQuestion()
     

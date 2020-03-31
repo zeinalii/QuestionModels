@@ -1,24 +1,30 @@
 import random
 import json
 
-"""
-public class MyClass {
-  static double getArea() {
-    double Pi_Number = 3.14159;
-    double radius = 5;
-    return Pi_Number * radius * radius;
-  }
 
-  public static void main(String[] args) {
-    System.out.println(getArea());
-  }
-}
-"""
 
 
 class Name:
     def __init__(self, name):
-        self.name = name
+        self.name       = name
+        self.template   = """In the following peice of code, which identifier's name is \
+        chosen incorect based on the java naming convention. Select all that apply.
+        
+public class {class[0]} {{
+        public double void {method[0]} (double x) {{
+                return (x*x + 1);
+                }}
+       public static void main(String[] args) {{
+       double {variable[0]};
+       System.out.println({method[0]}());
+       }}
+}}
+        """
+        self.choice = ["a. class name",
+                       "b. method name",
+                       "c. variable name",
+                       "d. none"
+                ]
             
     # < --------------------- >
     def get_correct_class_name(self):
@@ -37,7 +43,7 @@ class Name:
         else:
             return random.choice(self.name['verb'])
         
-    
+     
     def get_correct_variable_name(self):
         if random.random() < 0.3:
             return random.choice(self.name['descriptiveName']).lower()
@@ -50,7 +56,7 @@ class Name:
             return random.choice(self.name['name']).upper()
         elif random.random() < 0.25:
             return random.choice(self.name['verb'])
-        elif random.random() < 0.25:
+        else:
             return random.choice(self.name['reservedWords']).lower()
     
     
@@ -77,44 +83,44 @@ class Name:
 
     def generateClass(self):
         if random.random() < 0.5:
-            return [name.get_correct_class_name(),True]
+            return [self.get_correct_class_name(),True]
         else:
-            return [name.get_wrong_class_name(),False]
+            return [self.get_wrong_class_name(),False]
     def generateVariable(self):
         if random.random() < 0.5:
-            return [name.get_correct_variable_name(),True]
+            return [self.get_correct_variable_name(),True]
         else:
-            return [name.get_wrong_variable_name(),False]
+            return [self.get_wrong_variable_name(),False]
     def generateMethod(self):
         if random.random() < 0.5:
-            return [name.get_correct_method_name(),True]
+            return [self.get_correct_method_name(),True]
         else:
-            return [name.get_wrong_method_name(),False]
+            return [self.get_wrong_method_name(),False]
+  
+    def generateQuestion(self):
+        X                = {} 
+        X['method']      = self.generateMethod()
+        X['variable']    = self.generateVariable()
+        X['class']       = self.generateClass()
+        ANSWER           = [X[i][1] for i in X]
+        if True not in ANSWER: ANSWER.append(True)  
+        else : ANSWER.append(False)
         
+        QUESTION    = self.template.format(**X)  
+        CHOICES     = self.choice
+        print(QUESTION)
+        for i in name.choice: print(i)
+        print("\nanswer: ", ANSWER)
+            
+        return  [QUESTION ,CHOICES , ANSWER]
+    
 
 if __name__=="__main__":
     
     with open('javanameconvention.json') as f:
         name = json.load(f)
     name = Name(name)
-    
-    # generate a class name
-    print(name.generateClass())
-    """
-    Example:
-        ['Plane', True]
-    """
-    # generate a variable name
-    print(name.generateVariable())
-    """
-    Example:
-        ['size', True]
-    """    
-    # generate a method name
-    print(name.generateMethod())
-    """
-    Example:
-        ['copy', False]
-    """
-    
-    
+    question = name.generateQuestion()
+
+
+
