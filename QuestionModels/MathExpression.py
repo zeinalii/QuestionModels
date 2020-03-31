@@ -61,8 +61,7 @@ class MathExpression:
 if __name__ == "__main__":
     
     mathexpression = MathExpression()
-    for i in range(10):
-        _ = mathexpression.generate()
+    _ = mathexpression.generate()
     """
     Result:
         The expression 1 - 5 / 11 * (11 + 4) is evaluated to

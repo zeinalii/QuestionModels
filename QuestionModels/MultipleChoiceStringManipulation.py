@@ -39,23 +39,19 @@ class MultipleChoiceStringManipulation:
         X['indeces']= (a,b)                                                  # creating (a,b)  
         #  choices
         if (X['string'][a:b] == ""):
-            X['a']  = "an empty string"          #  choice a is theCorrect answer                             
-            X['b']  = "Syntax error (illegal expression)"                    #  choice b     TODO: Explain                           
+            X['a']  = "an empty string"                                      #  choice a is theCorrect answer                             
+            X['b']  = "Syntax error (illegal expression)"                    #  choice b                            
         else:
-            X['a']  =   X['string'][a:b]         #  choice a
-            X['b']  = X['string'][a+1:b+1]       #  choice b
-        X['c'] = X['string'][a: b+1]             #  choice c
+            X['a']  =   X['string'][a:b]                                     #  choice a
+            X['b']  = X['string'][a+1:b+1]                                   #  choice b
+        X['c'] = X['string'][a: b+1]                                         #  choice c
         if len(X['string']) == b+1:
-            X['d'] = X['string'][a-2: b+1]       #  choice d
-        else:                   #TODO: expain
+            X['d'] = X['string'][a-2: b+1]                                   #  choice d
+        else:                   
             if X['string'][a+1:b+2] == "":
                 X['d'] = "an empty string"
             else:
                 X['d'] = X['string'][a+1:b+2]
-        for i in range(4):
-            for j in range(i+1,4):
-                if X['abcd'[i]] == X['abcd'[j]]:
-                    print("\n<--ERROR-->\n")
         return self.GenerateQuestion(X)
 
 

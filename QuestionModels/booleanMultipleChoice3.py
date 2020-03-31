@@ -2,7 +2,7 @@
 
 import random
 
-class BooleanMutipleChoice3:
+class booleanMultipleChoice3:
     def __init__(self):
         self.CHOICES    = [ " banana",
                             " apple",
@@ -65,5 +65,4 @@ else
 if __name__ == "__main__":
     
     boolean = BooleanMutipleChoice3()
-    for _ in range(10):
-        _ = boolean.generate()
+    _ = boolean.generate()

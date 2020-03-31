@@ -3,13 +3,17 @@
 
 import random
 import json
-
+import os
 
 
 
 class booleanMultipleChoice2:
-    def __init__(self, booleanList):
-        self.booleanList    = booleanList
+    def __init__(self):
+        BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
+        DIR         = os.path.join(BASE_DIR,'data','booleanexpression.json')
+        with open(DIR) as f:
+            self.booleanList = json.load(f)
+
         self.CHOICES        = [ "A and B are equivalent",
                                    "A and C are equivalent",
                                    "B and C are equivalent",
@@ -52,7 +56,5 @@ Boolean C = {expression[2]};
            
 if __name__=="__main__":
     
-    with open('booleanexpression.json') as f:
-        booleans = json.load(f)
-    booleanmultiplechoice = booleanMultipleChoice2(booleans)
+    booleanmultiplechoice = booleanMultipleChoice2()
     _ = booleanmultiplechoice.generate()

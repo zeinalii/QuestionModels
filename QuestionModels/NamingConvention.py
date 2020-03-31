@@ -1,12 +1,15 @@
 import random
 import json
+import os
 
 
 
-
-class Name:
-    def __init__(self, name):
-        self.name       = name
+class NamingConvention:
+    def __init__(self):
+        BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
+        DIR         = os.path.join(BASE_DIR,'data','javanameconvention.json')
+        with open(DIR) as f:
+            self.name = json.load(f)
         self.template   = """In the following peice of code, which identifier's name is \
         chosen incorect based on the java naming convention. Select all that apply.
         
@@ -97,7 +100,7 @@ public class {class[0]} {{
         else:
             return [self.get_wrong_method_name(),False]
   
-    def generateQuestion(self):
+    def generate(self):
         X                = {} 
         X['method']      = self.generateMethod()
         X['variable']    = self.generateVariable()
@@ -109,7 +112,7 @@ public class {class[0]} {{
         QUESTION    = self.template.format(**X)  
         CHOICES     = self.choice
         print(QUESTION)
-        for i in name.choice: print(i)
+        for i in self.choice: print(i)
         print("\nanswer: ", ANSWER)
             
         return  [QUESTION ,CHOICES , ANSWER]
@@ -117,10 +120,8 @@ public class {class[0]} {{
 
 if __name__=="__main__":
     
-    with open('javanameconvention.json') as f:
-        name = json.load(f)
-    name = Name(name)
-    question = name.generateQuestion()
+    name = NamingConvention()
+    question = name.generate()
 
 
 

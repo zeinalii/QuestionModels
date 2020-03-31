@@ -147,14 +147,13 @@ class StringManipulationShortAnswer:
         """
         X           = {}
         X['method'] = "indexOf"
-        s1 = self.randomString(random.randint(1,2))
-        s2 = self.randomString(random.randint(1,2))
-        s3 = self.randomString(random.randint(1,2))
-        s4 = self.randomString(random.randint(1,2))
-        X['string'] = s1 + s2 + s3 + s2 + s4
-        Index = random.randint(0,len(X['string']))
-        X['indeces']= ("(\"{}\",{})").format(s2,Index)
-        X['answer'] = X['string'].find(s2,3)
+        X['string'] = self.randomString(10)
+        if random.random() > 0.5:
+            char    = random.choice(string.ascii_letters) 
+        else:
+            char    = random.choice(X['string']) 
+        X['indeces']= "('{}')".format(char)
+        X['answer'] = X['string'].find(char)
         return self.GenerateQuestion(X)
 
     def generate(self):
@@ -194,44 +193,44 @@ if __name__ == "__main__":
     shortanswer = StringManipulationShortAnswer()
     
     # We can call them separately 
-    _ = shortanswer.length()
-    """
-        What is the result of "vrQVF".length()?
-        
-        Answer:  5      
-    """        
-    _ = shortanswer.charAt()
-    """
-        What is the result of "MQhgP".charAt(2)?
-        
-        Answer:  h        
-    """   
-    _ = shortanswer.contains()
-    """
-        What is the result of "zoimCX".contains("io")?
-        
-        Answer:  false        
-    """
-    _ = shortanswer.equals()
-    """
-        What is the result of "LjklSzUG".equals("LjklSzUG")?
-        
-        Answer:  true        
-    """
-    _ = shortanswer.replace()
-    """
-        What is the result of "bljlv".replace("l","@")?
-        
-        Answer:  b@j@v4        
-    """
-    _ = shortanswer.indexOf()
-    """
-    Example: 
-            What is the result of "wlgqlYG".indexOf("l",4)?
-            
-            Answer:  4        
-    """
-    # calling randomly
-    _ = shortanswer.generate()
+#    _ = shortanswer.length()
+#    """
+#        What is the result of "vrQVF".length()?
+#        
+#        Answer:  5      
+#    """        
+#    _ = shortanswer.charAt()
+#    """
+#        What is the result of "MQhgP".charAt(2)?
+#        
+#        Answer:  h        
+#    """   
+#    _ = shortanswer.contains()
+#    """
+#        What is the result of "zoimCX".contains("io")?
+#        
+#        Answer:  false        
+#    """
+#    _ = shortanswer.equals()
+#    """
+#        What is the result of "LjklSzUG".equals("LjklSzUG")?
+#        
+#        Answer:  true        
+#    """
+#    _ = shortanswer.replace()
+#    """
+#        What is the result of "bljlv".replace("l","@")?
+#        
+#        Answer:  b@j@v4        
+#    """
+    for _ in range(10):_ = shortanswer.indexOf()
+#    """
+#    Example: 
+#            What is the result of "wlgqlYG".indexOf("l",4)?
+#            
+#            Answer:  4        
+#    """
+#    # calling randomly
+#    _ = shortanswer.generate()
 
      
