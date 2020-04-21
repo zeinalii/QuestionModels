@@ -9,9 +9,9 @@ import os
 
 class booleanMultipleChoice2:
     def __init__(self):
-        BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
-        DIR         = os.path.join(BASE_DIR,'data','booleanexpression.json')
-        with open(DIR) as f:
+        self.BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
+        self.DIR         = os.path.join(self.BASE_DIR,'data','booleanexpression.json')
+        with open(self.DIR) as f:
             self.booleanList = json.load(f)
 
         self.CHOICES        = [ "A and B are equivalent",

@@ -1,8 +1,15 @@
 import random
 import string 
+import os
+import json
 
 class MultipleChoiceStringManipulation:
     def __init__(self):
+        BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
+        DIR     = os.path.join(BASE_DIR,'data','words.json')
+        with open(DIR) as f:
+            self.WORDS = json.load(f)
+            
         self.QUESTION   = """What is the return value of "{string}".{method}{indeces}?"""
         self.CHOICES    = [   "{a}",
                             "{b}",
@@ -33,7 +40,7 @@ class MultipleChoiceStringManipulation:
             """
         X           = {}
         X['method'] = "substring"                                            # method we want to use
-        X['string'] = self.randomString(random.randint(5,10))                # generating a random un-repeated string with length of stringLength
+        X['string'] = self.randomWord()                # generating a random un-repeated string with length of stringLength
         a           = random.randint(1,len(X['string'])-1)                   # lower bound   1<=a<=len(STRING)-1
         b           = random.randint(a,len(X['string'])-1)                   # upper bound a <=b<=len(STRING) -1 
         X['indeces']= (a,b)                                                  # creating (a,b)  
@@ -52,7 +59,10 @@ class MultipleChoiceStringManipulation:
                 X['d'] = "an empty string"
             else:
                 X['d'] = X['string'][a+1:b+2]
-        return self.GenerateQuestion(X)
+        if len(set([X['a'],X['b'],X['c'],X['d']])) != 4: 
+            self.generateIndexOfQuestion()
+        else:
+            return self.GenerateQuestion(X)
 
 
     def randomString(self,stringLength=10):
@@ -62,7 +72,10 @@ class MultipleChoiceStringManipulation:
             letters = letters.replace(random.choice(letters),"")
         return ''.join(random.sample(letters,len(letters)))
     
-
+    def randomWord(self):
+        return random.choice(self.WORDS['words'])
+            
+            
     def GenerateQuestion(self,X):
         """replace X inside the Qestion and Choices and then print them """
         print('\n')
@@ -88,9 +101,9 @@ class MultipleChoiceStringManipulation:
         """
         X           = {}
         X['method'] = "indexOf"                                            # method we want to use
-        X['string'] = self.randomString(random.randint(5,10))              # generating a random un-repeated string with length of stringLength
+        X['string'] = self.randomWord()              # generating a random un-repeated string with length of stringLength
         i           = random.randint(0,len(X['string'])-1)                 # lower bound   1<=a<=len(STRING)-1
-        if random.random() < 0.5:                                          #the character is inside the string
+        if random.random() < 0.8:                                          #the character is inside the string
             a           = X['string'][i]
             X['indeces']= "('{}')".format(a) 
             X['a']      = X['string'].index(a)
@@ -108,9 +121,11 @@ class MultipleChoiceStringManipulation:
                 X['d']  = i - 1
             else:
                 X['d']  = i + 1            
-
-
-        return self.GenerateQuestion(X)
+        if len(set([X['a'],X['b'],X['c'],X['d']])) != 4: 
+            self.generateIndexOfQuestion()
+        else:
+            return self.GenerateQuestion(X)
+        
     def generate(self):
         n = random.randint(1,2)
         if n == 1:
@@ -120,21 +135,14 @@ class MultipleChoiceStringManipulation:
 
 
 
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     
 
     stringmanipulation = MultipleChoiceStringManipulation()
-    [QUESTION, CHOICES, ANSWER] = stringmanipulation.generateIndexOfQuestion()
-    [QUESTION, CHOICES, ANSWER] = stringmanipulation.generateSubstringQuestion()
-    
+
+    #[QUESTION, CHOICES, ANSWER] = stringmanipulation.generateIndexOfQuestion()
+    for i in range(10):
+        [QUESTION, CHOICES, ANSWER] = stringmanipulation.generateSubstringQuestion()
     """
     result:
         What is the return value of "DeEBP".indexOf('EB', 3)?
