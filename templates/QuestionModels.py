@@ -1,35 +1,60 @@
-import random
-import json
 import os
+import random, json
+
+class QuestionModel:
+    TYPE = None
+    DIFFICULTY_LEVEL = None
+    KEYWORDs = None
+    QUESTION = None
+        
+
+    def generate(self, n=1, Print=True):
+        pass
+
+    def model(self):
+        X = {}
+
+        return X
+
+
+class MultipleChoice(QuestionModel):
+    CHOICES = ["{choice[0]}",
+               "{choice[1]}",
+               "{choice[2]}",
+               "{choice[3]}"]
+    ANSWER  = '{answer}'
+    shuffle = True
+    def isShuffle(self):
+        return self.shuffle
+    
+    def generate(self, Print=True):
+        X = self.model()
+        if self.isShuffle():
+            random.shuffle(self.CHOICES)
+        if Print:
+            print('< - - - - - - - - - - >')
+            print(self.QUESTION.format(**X))
+            print('\n')
+            for choice in self.CHOICES:
+                print(". ", choice.format(**X))
+            print("\n ANSWER: " , self.ANSWER.format(**X))
+            print('< - - - - - - - - - - >')
+
+        return {
+            "QUESTION"  : self.QUESTION.format(**X),
+            "CHOICES"   : [choice.format(**X) for choice in self.CHOICES],
+            "ANSWER"    : self.ANSWER.format(**X)
+                }
 
 
 
-class NamingConvention:
+class NamingConvention(MultipleChoice):
     def __init__(self):
         BASE_DIR    = os.path.dirname(os.path.dirname(__file__))
         DIR         = os.path.join(BASE_DIR,'data','javanameconvention.json')
         with open(DIR) as f:
             self.name = json.load(f)
-        self.template   = """In the following peice of code, which identifier's name is \
-        chosen incorect based on the java naming convention. Select all that apply.
-        
-public class {class[0]} {{
-        public double void {method[0]} (double x) {{
-                return (x*x + 1);
-                }}
-       public static void main(String[] args) {{
-       double {variable[0]};
-       System.out.println({method[0]}());
-       }}
-}}
-        """
-        self.choice = ["a. class name",
-                       "b. method name",
-                       "c. variable name",
-                       "d. none"
-                ]
             
-    # < --------------------- >
     def get_correct_class_name(self):
         return random.choice(self.name['name'])
     
@@ -99,29 +124,3 @@ public class {class[0]} {{
             return [self.get_correct_method_name(),True]
         else:
             return [self.get_wrong_method_name(),False]
-  
-    def generate(self):
-        X                = {} 
-        X['method']      = self.generateMethod()
-        X['variable']    = self.generateVariable()
-        X['class']       = self.generateClass()
-        ANSWER           = [X[i][1] for i in X]
-        if True not in ANSWER: ANSWER.append(True)  
-        else : ANSWER.append(False)
-        
-        QUESTION    = self.template.format(**X)  
-        CHOICES     = self.choice
-        print(QUESTION)
-        for i in self.choice: print(i)
-        print("\nanswer: ", ANSWER)
-            
-        return  [QUESTION ,CHOICES , ANSWER]
-    
-
-if __name__=="__main__":
-    
-    name = NamingConvention()
-    question = name.generate()
-
-
-
