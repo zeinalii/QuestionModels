@@ -1,7 +1,98 @@
+import random
+import sympy as sym
+from sympy.parsing.sympy_parser import (parse_expr)
+import re
+
+class ShortAnswer:
+    QUESTION    = ""
+    CODE        = ""
+    EQ          = ""
+    def __init__(self):
+        self.EQ = self.generateEq()
+    
+    def __str__(self):
+        pass
+
+    def generate(self):
+        pass
+        
+
+
+
+    def generateSimpleEq(self,variable_str = ['x','y'],complexity=0):
+        variables = [sym.Symbol(i) for i in variable_str]
+        if complexity == 0:
+            eq = sym.Symbol('eq')
+            for i,var in enumerate(variables):
+                if i==0:
+                    eq = random.randint(1,9)*var
+                else:
+                    eq += random.randint(-9,9)*var
+            return eq   
+        elif complexity == 1:
+            eq = sym.Symbol('eq')
+            for i,var in enumerate(variables):
+                if i==0:
+                    eq = random.randint(1,9)*(var**random.randint(1,5))
+                else:
+                    eq += random.randint(-9,9)*(var**random.randint(1,5))
+            return eq   
+        elif complexity == 2:
+            eq = sym.Symbol('eq')
+            for i,var in enumerate(variables):
+                if i==0:
+                    eq = random.randint(1,9)*(var**random.randint(1,3))*(random.choice(variables)**(random.randint(1,3)))
+                else:
+                    eq += random.randint(-9,9)*(var**random.randint(1,5))*(random.choice(variables)**(random.randint(1,3)))
+            return eq   
+        elif complexity == 3:
+            eq = sym.Symbol('eq')
+            for i,var in enumerate(variables):
+                if i==0:
+                    eq = random.randint(1,9)*(var**random.randint(1,3))*(random.choice(variables)**(random.randint(1,3)))
+                else:
+                    eq += random.randint(-9,9)*(var**random.randint(1,5))*(random.choice(variables)**(random.randint(1,3)))
+            return eq   
+        elif complexity == 4:
+            eq = sym.Symbol('eq')
+            for i,var in enumerate(variables):
+                if i==0:
+                    eq = random.randint(1,9)*(var**random.randint(1,3))*(random.choice(variables)**(random.randint(1,3)))
+                else:
+                    eq += random.randint(-9,9)*(var**random.randint(1,5))*(random.choice(variables)**(random.randint(1,3)))
+            if random.random() > 0.5:
+                return random.choice([-1,1]) * sym.sqrt(eq)
+            else:
+                return random.choice([-1,1]) * eq ** random.randint(2,5)   
+
+
+
+    def generateIntegerEq(self):
+        var = sym.Symbol("C")
+        num = (random.randint(1,99),random.randint(1,99))
+        return var * sym.simplify("%d/%d"%num)
+  
+    
+    
+    def generateEq(self):
+        return ((self.generateSimpleEq(['x','y'],complexity=4)) + \
+                self.generateIntegerEq())/\
+                self.generateSimpleEq(['x','y'],complexity=0)
+    
+
+if __name__=="__main__":
+    s = []
+    for i in range(100):
+        shoranswer = ShortAnswer()
+        eq = shoranswer.generateEq()
+        if (len(eq.args)) > 2:
+            s.append(eq)
+            
+
+
 # -*- coding: utf-8 -*-
 """
 Created on Wed May  6 02:30:20 2020
-
 @author: AmirHossein
 """
 import sympy as sym
@@ -133,6 +224,10 @@ def Braket_is_Balanced(myStr):
     else: 
         return False
   
+
+
+
+
 
 
 
