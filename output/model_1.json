@@ -1,0 +1,500 @@
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(1, 4)$$$?    ", "CHOICES": ["lown", "elow", "low", "elo"], "ANSWER": "elo"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(7, 7)$$$?    ", "CHOICES": ["peg", "Syntax error (illegal expression)", "an empty string", "g"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "o", "an empty string", "u"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "r", "d"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(4, 5)$$$?    ", "CHOICES": ["n", "ndon", "o", "on"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "w", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(6, 7)$$$?    ", "CHOICES": ["e", "er", "ve", "v"], "ANSWER": "v"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(5, 9)$$$?    ", "CHOICES": ["rook", "rbrooke", "ooke", "rooke"], "ANSWER": "rook"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(6, 6)$$$?    ", "CHOICES": ["o", "n", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 6)$$$?    ", "CHOICES": ["ri", "i", "r", "ia"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(4, 9)$$$?    ", "CHOICES": ["sford", "tsfor", "tsford", "botsford"], "ANSWER": "tsfor"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(4, 5)$$$?    ", "CHOICES": ["w", "hawa", "wa", "a"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(1, 3)$$$?    ", "CHOICES": ["haw", "sha", "ha", "sh"], "ANSWER": "sh"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 4)$$$?    ", "CHOICES": ["w", "an empty string", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 8)$$$?    ", "CHOICES": ["for", "or", "fo", "ord"], "ANSWER": "fo"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(2, 4)$$$?    ", "CHOICES": ["lo", "low", "own", "ow"], "ANSWER": "lo"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(2, 2)$$$?    ", "CHOICES": ["an empty string", "t", "c", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(1, 3)$$$?    ", "CHOICES": ["bo", "bb", "bbo", "bot"], "ANSWER": "bb"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 6)$$$?    ", "CHOICES": ["ne", "e", "en", "n"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(2, 4)$$$?    ", "CHOICES": ["ilt", "mil", "il", "mi"], "ANSWER": "mi"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 6)$$$?    ", "CHOICES": ["nton", "onto", "nto", "ont"], "ANSWER": "ont"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "n", "don"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 7)$$$?    ", "CHOICES": ["or", "fo", "o", "f"], "ANSWER": "f"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(5, 6)$$$?    ", "CHOICES": ["r", "ry", "y", "bury"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(4, 6)$$$?    ", "CHOICES": ["fa", "fax", "lifax", "ax"], "ANSWER": "fa"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "nto", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["ia", "i", "a", "rnia"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(4, 5)$$$?    ", "CHOICES": ["a", "w", "hawa", "wa"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["o", "nton", "n", "on"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 6)$$$?    ", "CHOICES": ["pe", "ipe", "peg", "ip"], "ANSWER": "ip"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(2, 6)$$$?    ", "CHOICES": ["nipeg", "nnipe", "nipe", "nnip"], "ANSWER": "nnip"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(3, 5)$$$?    ", "CHOICES": ["in", "na", "egina", "ina"], "ANSWER": "in"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 5)$$$?    ", "CHOICES": ["nto", "ont", "nt", "on"], "ANSWER": "on"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(9, 9)$$$?    ", "CHOICES": ["e", "Syntax error (illegal expression)", "an empty string", "oke"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(6, 7)$$$?    ", "CHOICES": ["n", "o", "lton", "on"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(7, 7)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "a", "ria", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 3)$$$?    ", "CHOICES": ["do", "nd", "d", "n"], "ANSWER": "n"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(1, 1)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "a", "an empty string", "l"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["x", "an empty string", "Syntax error (illegal expression)", "fax"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(5, 6)$$$?    ", "CHOICES": ["eg", "pe", "p", "e"], "ANSWER": "p"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 4)$$$?    ", "CHOICES": ["ina", "gi", "in", "gin"], "ANSWER": "gi"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(2, 7)$$$?    ", "CHOICES": ["ilton", "milto", "milton", "Hamilton"], "ANSWER": "milto"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 5)$$$?    ", "CHOICES": ["na", "n", "gina", "a"], "ANSWER": "n"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(5, 6)$$$?    ", "CHOICES": ["ro", "r", "o", "oo"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(3, 3)$$$?    ", "CHOICES": ["g", "Syntax error (illegal expression)", "an empty string", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(1, 7)$$$?    ", "CHOICES": ["bbotsf", "bbotsfo", "botsfor", "botsfo"], "ANSWER": "bbotsf"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(6, 6)$$$?    ", "CHOICES": ["ury", "Syntax error (illegal expression)", "y", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(4, 8)$$$?    ", "CHOICES": ["skatoon", "atoon", "atoo", "toon"], "ANSWER": "atoo"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(1, 2)$$$?    ", "CHOICES": ["i", "ic", "c", "ct"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(3, 6)$$$?    ", "CHOICES": ["broo", "rbr", "bro", "rbro"], "ANSWER": "rbr"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(2, 3)$$$?    ", "CHOICES": ["s", "sk", "k", "ka"], "ANSWER": "s"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(2, 4)$$$?    ", "CHOICES": ["ka", "kat", "ska", "sk"], "ANSWER": "sk"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(3, 4)$$$?    ", "CHOICES": ["a", "at", "ka", "k"], "ANSWER": "k"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(1, 3)$$$?    ", "CHOICES": ["rn", "arn", "rni", "ar"], "ANSWER": "ar"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(6, 7)$$$?    ", "CHOICES": ["a", "oria", "i", "ia"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 5)$$$?    ", "CHOICES": ["e", "n", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "d", "Syntax error (illegal expression)", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(1, 2)$$$?    ", "CHOICES": ["mi", "m", "am", "a"], "ANSWER": "a"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "a", "Syntax error (illegal expression)", "t"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 5)$$$?    ", "CHOICES": ["o", "or", "r", "ri"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "oon", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(2, 7)$$$?    ", "CHOICES": ["rbrook", "erbroo", "rbroo", "erbro"], "ANSWER": "erbro"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(4, 5)$$$?    ", "CHOICES": ["en", "he", "h", "e"], "ANSWER": "h"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(5, 8)$$$?    ", "CHOICES": ["uver", "couver", "uve", "ver"], "ANSWER": "uve"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(3, 6)$$$?    ", "CHOICES": ["owna", "own", "elowna", "wna"], "ANSWER": "own"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(7, 8)$$$?    ", "CHOICES": ["ok", "k", "ke", "o"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(4, 6)$$$?    ", "CHOICES": ["nt", "to", "nto", "ronto"], "ANSWER": "nt"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(2, 4)$$$?    ", "CHOICES": ["ont", "ro", "ron", "on"], "ANSWER": "ro"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(4, 6)$$$?    ", "CHOICES": ["ton", "to", "nt", "nto"], "ANSWER": "nt"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(1, 9)$$$?    ", "CHOICES": ["bbotsfor", "bbotsford", "botsford", "d"], "ANSWER": "bbotsfor"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(4, 6)$$$?    ", "CHOICES": ["fa", "lifax", "fax", "ax"], "ANSWER": "fa"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "u", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(4, 6)$$$?    ", "CHOICES": ["ton", "to", "lto", "lt"], "ANSWER": "lt"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(2, 4)$$$?    ", "CHOICES": ["co", "nco", "cou", "nc"], "ANSWER": "nc"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 4)$$$?    ", "CHOICES": ["in", "ina", "gi", "gin"], "ANSWER": "gi"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["nia", "an empty string", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "n", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "w", "n", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(2, 8)$$$?    ", "CHOICES": ["erbrook", "rbrook", "erbroo", "rbrooke"], "ANSWER": "erbroo"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["t", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 5)$$$?    ", "CHOICES": ["w", "n", "na", "wn"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(1, 4)$$$?    ", "CHOICES": ["mil", "amil", "ami", "milt"], "ANSWER": "ami"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(3, 6)$$$?    ", "CHOICES": ["ary", "algary", "gary", "gar"], "ANSWER": "gar"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 6)$$$?    ", "CHOICES": ["ip", "pe", "ipe", "peg"], "ANSWER": "ip"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 3)$$$?    ", "CHOICES": ["i", "g", "in", "gi"], "ANSWER": "g"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(5, 7)$$$?    ", "CHOICES": ["oo", "to", "oon", "too"], "ANSWER": "to"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(1, 2)$$$?    ", "CHOICES": ["r", "or", "ro", "o"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(6, 7)$$$?    ", "CHOICES": ["on", "lton", "n", "o"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 6)$$$?    ", "CHOICES": ["i", "ia", "r", "ri"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 4)$$$?    ", "CHOICES": ["o", "on", "d", "do"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 5)$$$?    ", "CHOICES": ["lto", "il", "ilt", "lt"], "ANSWER": "il"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(2, 2)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "r", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(2, 5)$$$?    ", "CHOICES": ["skat", "kat", "ska", "kato"], "ANSWER": "ska"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 8)$$$?    ", "CHOICES": ["for", "or", "fo", "ord"], "ANSWER": "fo"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 3)$$$?    ", "CHOICES": ["lg", "l", "ga", "g"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(1, 5)$$$?    ", "CHOICES": ["ronto", "oront", "oron", "ront"], "ANSWER": "oron"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["u", "d", "db", "ud"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(7, 7)$$$?    ", "CHOICES": ["r", "an empty string", "Syntax error (illegal expression)", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(1, 6)$$$?    ", "CHOICES": ["innip", "nnipe", "nnipeg", "innipe"], "ANSWER": "innip"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["nto", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(2, 7)$$$?    ", "CHOICES": ["nnipeg", "nnipe", "Winnipeg", "nipeg"], "ANSWER": "nnipe"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 7)$$$?    ", "CHOICES": ["lton", "ilto", "amilton", "ilton"], "ANSWER": "ilto"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(7, 7)$$$?    ", "CHOICES": ["o", "Syntax error (illegal expression)", "k", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(1, 3)$$$?    ", "CHOICES": ["elo", "el", "low", "lo"], "ANSWER": "el"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 6)$$$?    ", "CHOICES": ["pe", "ipe", "peg", "ip"], "ANSWER": "ip"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 6)$$$?    ", "CHOICES": ["udbury", "dbury", "udbur", "y"], "ANSWER": "udbur"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 6)$$$?    ", "CHOICES": ["onto", "ont", "oronto", "nto"], "ANSWER": "ont"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 6)$$$?    ", "CHOICES": ["wna", "lowna", "wn", "na"], "ANSWER": "wn"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "r", "ver", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 4)$$$?    ", "CHOICES": ["n", "nt", "on", "o"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "t", "l", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "a", "awa", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 3)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "d", "o", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "don", "an empty string", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(3, 5)$$$?    ", "CHOICES": ["or", "to", "tor", "ori"], "ANSWER": "to"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(5, 5)$$$?    ", "CHOICES": ["n", "an empty string", "don", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 3)$$$?    ", "CHOICES": ["ga", "lg", "g", "l"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(8, 8)$$$?    ", "CHOICES": ["ner", "r", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "y", "ary"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["nton", "n", "on", "o"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(7, 9)$$$?    ", "CHOICES": ["oke", "rooke", "ke", "ok"], "ANSWER": "ok"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 4)$$$?    ", "CHOICES": ["d", "o", "do", "on"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 6)$$$?    ", "CHOICES": ["ria", "ori", "ri", "or"], "ANSWER": "or"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 2)$$$?    ", "CHOICES": ["h", "a", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(4, 4)$$$?    ", "CHOICES": ["n", "an empty string", "t", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 2)$$$?    ", "CHOICES": ["eg", "gi", "g", "e"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 3)$$$?    ", "CHOICES": ["an empty string", "o", "d", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 4)$$$?    ", "CHOICES": ["dbur", "udbu", "udb", "dbu"], "ANSWER": "udb"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["a", "awa", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(5, 5)$$$?    ", "CHOICES": ["y", "r", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(4, 6)$$$?    ", "CHOICES": ["ury", "ry", "ur", "dbury"], "ANSWER": "ur"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 1)$$$?    ", "CHOICES": ["g", "Syntax error (illegal expression)", "an empty string", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "e", "v"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(9, 9)$$$?    ", "CHOICES": ["an empty string", "ord", "Syntax error (illegal expression)", "d"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(1, 2)$$$?    ", "CHOICES": ["dm", "m", "mo", "d"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "u", "v"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(2, 5)$$$?    ", "CHOICES": ["Ottawa", "awa", "taw", "tawa"], "ANSWER": "taw"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 5)$$$?    ", "CHOICES": ["egina", "egin", "gina", "a"], "ANSWER": "egin"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(5, 5)$$$?    ", "CHOICES": ["v", "Syntax error (illegal expression)", "u", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(2, 5)$$$?    ", "CHOICES": ["dbu", "dbur", "bury", "bur"], "ANSWER": "dbu"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(3, 3)$$$?    ", "CHOICES": ["an empty string", "w", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(6, 6)$$$?    ", "CHOICES": ["wna", "a", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(1, 6)$$$?    ", "CHOICES": ["monto", "dmonto", "dmont", "monton"], "ANSWER": "dmont"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(1, 2)$$$?    ", "CHOICES": ["he", "er", "e", "h"], "ANSWER": "h"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "o", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "i", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(2, 3)$$$?    ", "CHOICES": ["b", "bo", "o", "ot"], "ANSWER": "b"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(5, 6)$$$?    ", "CHOICES": ["r", "gary", "y", "ry"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 4)$$$?    ", "CHOICES": ["i", "Syntax error (illegal expression)", "an empty string", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 4)$$$?    ", "CHOICES": ["i", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["ia", "a", "rnia", "i"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(3, 5)$$$?    ", "CHOICES": ["ow", "wna", "wn", "own"], "ANSWER": "ow"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "a", "an empty string", "nia"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(5, 5)$$$?    ", "CHOICES": ["t", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 6)$$$?    ", "CHOICES": ["n", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(1, 6)$$$?    ", "CHOICES": ["dmont", "dmonto", "monto", "monton"], "ANSWER": "dmont"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(2, 3)$$$?    ", "CHOICES": ["ro", "on", "o", "r"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "x", "Syntax error (illegal expression)", "fax"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(1, 5)$$$?    ", "CHOICES": ["ronto", "ront", "oron", "oront"], "ANSWER": "oron"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 2)$$$?    ", "CHOICES": ["an empty string", "l", "g", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(1, 3)$$$?    ", "CHOICES": ["taw", "ta", "tta", "tt"], "ANSWER": "tt"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(3, 5)$$$?    ", "CHOICES": ["tsf", "ot", "ots", "ts"], "ANSWER": "ot"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 7)$$$?    ", "CHOICES": ["or", "o", "f", "fo"], "ANSWER": "f"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(2, 3)$$$?    ", "CHOICES": ["t", "aw", "ta", "a"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "i", "Syntax error (illegal expression)", "p"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(2, 3)$$$?    ", "CHOICES": ["t", "ta", "a", "aw"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["n", "nton", "o", "on"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "y", "ury"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "o", "Syntax error (illegal expression)", "t"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 5)$$$?    ", "CHOICES": ["Oshawa", "awa", "hawa", "haw"], "ANSWER": "haw"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(8, 8)$$$?    ", "CHOICES": ["n", "Syntax error (illegal expression)", "oon", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 6)$$$?    ", "CHOICES": ["br", "ro", "roo", "bro"], "ANSWER": "br"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 3)$$$?    ", "CHOICES": ["gi", "g", "in", "i"], "ANSWER": "g"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 5)$$$?    ", "CHOICES": ["hawa", "Oshawa", "haw", "awa"], "ANSWER": "haw"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(2, 6)$$$?    ", "CHOICES": ["dbur", "dbury", "bury", "Sudbury"], "ANSWER": "dbur"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(2, 3)$$$?    ", "CHOICES": ["o", "ro", "r", "on"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(2, 8)$$$?    ", "CHOICES": ["ncouve", "couver", "ncouver", "Vancouver"], "ANSWER": "ncouve"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(2, 4)$$$?    ", "CHOICES": ["on", "mon", "mo", "ont"], "ANSWER": "mo"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(1, 3)$$$?    ", "CHOICES": ["arn", "rn", "ar", "rni"], "ANSWER": "ar"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(3, 5)$$$?    ", "CHOICES": ["awa", "aw", "shawa", "wa"], "ANSWER": "aw"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(1, 4)$$$?    ", "CHOICES": ["alga", "lgar", "alg", "lga"], "ANSWER": "alg"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["db", "ud", "u", "d"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(1, 1)$$$?    ", "CHOICES": ["an empty string", "c", "i", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["a", "an empty string", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "ina", "an empty string", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 6)$$$?    ", "CHOICES": ["gary", "lgary", "lgar", "Calgary"], "ANSWER": "lgar"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 7)$$$?    ", "CHOICES": ["onto", "nton", "dmonton", "onton"], "ANSWER": "onto"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 6)$$$?    ", "CHOICES": ["roo", "bro", "ro", "br"], "ANSWER": "br"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(7, 7)$$$?    ", "CHOICES": ["n", "ton", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 8)$$$?    ", "CHOICES": ["chener", "ene", "ener", "ner"], "ANSWER": "ene"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(7, 8)$$$?    ", "CHOICES": ["o", "on", "n", "toon"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["ver", "Syntax error (illegal expression)", "an empty string", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(1, 5)$$$?    ", "CHOICES": ["nnip", "innip", "inni", "nnipe"], "ANSWER": "inni"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "o", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 2)$$$?    ", "CHOICES": ["e", "gi", "g", "eg"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(2, 3)$$$?    ", "CHOICES": ["i", "l", "li", "if"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(2, 3)$$$?    ", "CHOICES": ["n", "ni", "r", "rn"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(3, 5)$$$?    ", "CHOICES": ["ot", "ts", "ots", "tsf"], "ANSWER": "ot"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "n", "Syntax error (illegal expression)", "ton"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(1, 9)$$$?    ", "CHOICES": ["herbrook", "herbrooke", "e", "erbrooke"], "ANSWER": "herbrook"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(2, 9)$$$?    ", "CHOICES": ["botsfor", "botsford", "Abbotsford", "otsford"], "ANSWER": "botsfor"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "p", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 6)$$$?    ", "CHOICES": ["t", "o", "to", "onto"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(2, 5)$$$?    ", "CHOICES": ["mon", "ont", "mont", "onto"], "ANSWER": "mon"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(5, 6)$$$?    ", "CHOICES": ["r", "oo", "ro", "o"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(8, 9)$$$?    ", "CHOICES": ["ooke", "k", "e", "ke"], "ANSWER": "k"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(2, 7)$$$?    ", "CHOICES": ["Edmonton", "monton", "onton", "monto"], "ANSWER": "monto"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(5, 5)$$$?    ", "CHOICES": ["y", "Syntax error (illegal expression)", "an empty string", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["awa", "an empty string", "Syntax error (illegal expression)", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 4)$$$?    ", "CHOICES": ["o", "r", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(3, 3)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "i", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 4)$$$?    ", "CHOICES": ["egi", "gin", "gina", "egin"], "ANSWER": "egi"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(4, 6)$$$?    ", "CHOICES": ["fax", "lifax", "ax", "fa"], "ANSWER": "fa"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "a", "Syntax error (illegal expression)", "awa"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(1, 7)$$$?    ", "CHOICES": ["ictori", "ctoria", "ictoria", "a"], "ANSWER": "ictori"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 5)$$$?    ", "CHOICES": ["br", "r", "b", "ro"], "ANSWER": "b"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(7, 8)$$$?    ", "CHOICES": ["uver", "er", "r", "e"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 5)$$$?    ", "CHOICES": ["arnia", "ia", "nia", "ni"], "ANSWER": "ni"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(2, 5)$$$?    ", "CHOICES": ["rbro", "rbr", "erb", "erbr"], "ANSWER": "erb"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(1, 4)$$$?    ", "CHOICES": ["alif", "ali", "lifa", "lif"], "ANSWER": "ali"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(6, 6)$$$?    ", "CHOICES": ["ury", "an empty string", "y", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "ina", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(8, 8)$$$?    ", "CHOICES": ["r", "an empty string", "Syntax error (illegal expression)", "ner"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 6)$$$?    ", "CHOICES": ["pe", "peg", "ipe", "ip"], "ANSWER": "ip"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "oon", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 4)$$$?    ", "CHOICES": ["il", "l", "lt", "i"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 6)$$$?    ", "CHOICES": ["f", "Syntax error (illegal expression)", "o", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(7, 8)$$$?    ", "CHOICES": ["ok", "k", "o", "ke"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "ton", "n", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(2, 4)$$$?    ", "CHOICES": ["bur", "dbu", "db", "bu"], "ANSWER": "db"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(5, 6)$$$?    ", "CHOICES": ["y", "r", "gary", "ry"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 6)$$$?    ", "CHOICES": ["ont", "onto", "nton", "nto"], "ANSWER": "ont"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 6)$$$?    ", "CHOICES": ["ont", "onto", "nto", "oronto"], "ANSWER": "ont"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "a", "an empty string", "nia"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(4, 5)$$$?    ", "CHOICES": ["a", "ry", "r", "ar"], "ANSWER": "a"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(5, 7)$$$?    ", "CHOICES": ["for", "sf", "fo", "sfo"], "ANSWER": "sf"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(7, 7)$$$?    ", "CHOICES": ["a", "an empty string", "ria", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 7)$$$?    ", "CHOICES": ["ctoria", "ria", "ori", "oria"], "ANSWER": "ori"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["a", "ia", "i", "rnia"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(2, 4)$$$?    ", "CHOICES": ["ni", "nni", "nip", "nn"], "ANSWER": "nn"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(7, 7)$$$?    ", "CHOICES": ["e", "r", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(5, 5)$$$?    ", "CHOICES": ["f", "Syntax error (illegal expression)", "an empty string", "s"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(1, 5)$$$?    ", "CHOICES": ["lgary", "algar", "lgar", "alga"], "ANSWER": "alga"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(6, 8)$$$?    ", "CHOICES": ["atoon", "oon", "on", "oo"], "ANSWER": "oo"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(3, 3)$$$?    ", "CHOICES": ["a", "an empty string", "Syntax error (illegal expression)", "w"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 5)$$$?    ", "CHOICES": ["w", "tawa", "a", "wa"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(1, 4)$$$?    ", "CHOICES": ["amil", "mil", "ami", "milt"], "ANSWER": "ami"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(1, 7)$$$?    ", "CHOICES": ["amilto", "n", "milton", "amilton"], "ANSWER": "amilto"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 3)$$$?    ", "CHOICES": ["db", "udb", "ud", "dbu"], "ANSWER": "ud"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 2)$$$?    ", "CHOICES": ["d", "Syntax error (illegal expression)", "n", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 9)$$$?    ", "CHOICES": ["d", "ford", "r", "rd"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 3)$$$?    ", "CHOICES": ["n", "an empty string", "Syntax error (illegal expression)", "i"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "n", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "x", "fax", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(1, 4)$$$?    ", "CHOICES": ["erb", "her", "herb", "erbr"], "ANSWER": "her"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["nto", "an empty string", "o", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 6)$$$?    ", "CHOICES": ["lton", "ilto", "ilt", "lto"], "ANSWER": "ilt"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "r", "an empty string", "ver"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 7)$$$?    ", "CHOICES": ["ria", "ia", "ri", "toria"], "ANSWER": "ri"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(4, 5)$$$?    ", "CHOICES": ["w", "a", "wa", "hawa"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 7)$$$?    ", "CHOICES": ["rook", "broo", "roo", "bro"], "ANSWER": "bro"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(8, 8)$$$?    ", "CHOICES": ["n", "Syntax error (illegal expression)", "an empty string", "oon"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "n", "ton", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(7, 7)$$$?    ", "CHOICES": ["peg", "g", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(3, 5)$$$?    ", "CHOICES": ["ur", "bu", "ury", "bur"], "ANSWER": "bu"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(6, 8)$$$?    ", "CHOICES": ["ner", "ne", "er", "hener"], "ANSWER": "ne"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "t", "Syntax error (illegal expression)", "l"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(6, 7)$$$?    ", "CHOICES": ["eg", "g", "e", "ipeg"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(3, 3)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "a", "w"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(5, 5)$$$?    ", "CHOICES": ["r", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 7)$$$?    ", "CHOICES": ["onto", "onton", "nton", "dmonton"], "ANSWER": "onto"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 5)$$$?    ", "CHOICES": ["egina", "gina", "egin", "a"], "ANSWER": "egin"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(3, 4)$$$?    ", "CHOICES": ["a", "w", "aw", "wa"], "ANSWER": "a"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "n", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["o", "on", "n", "nton"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(3, 3)$$$?    ", "CHOICES": ["c", "an empty string", "Syntax error (illegal expression)", "h"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 8)$$$?    ", "CHOICES": ["r", "Syntax error (illegal expression)", "d", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["i", "a", "ia", "rnia"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "nto", "o", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 4)$$$?    ", "CHOICES": ["nd", "ndo", "don", "do"], "ANSWER": "nd"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "w", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(3, 5)$$$?    ", "CHOICES": ["ina", "na", "in", "egina"], "ANSWER": "in"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 5)$$$?    ", "CHOICES": ["hawa", "awa", "Oshawa", "haw"], "ANSWER": "haw"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 5)$$$?    ", "CHOICES": ["awa", "Oshawa", "hawa", "haw"], "ANSWER": "haw"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(2, 6)$$$?    ", "CHOICES": ["skat", "skato", "kato", "katoo"], "ANSWER": "skat"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(3, 6)$$$?    ", "CHOICES": ["udbury", "ury", "bur", "bury"], "ANSWER": "bur"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(5, 6)$$$?    ", "CHOICES": ["r", "gary", "ry", "y"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(3, 5)$$$?    ", "CHOICES": ["ar", "ary", "gar", "ga"], "ANSWER": "ga"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["on", "o", "n", "nton"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 4)$$$?    ", "CHOICES": ["nd", "don", "do", "ndo"], "ANSWER": "nd"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(2, 4)$$$?    ", "CHOICES": ["to", "ct", "cto", "tor"], "ANSWER": "ct"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(1, 4)$$$?    ", "CHOICES": ["icto", "cto", "ctor", "ict"], "ANSWER": "ict"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "t", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(1, 4)$$$?    ", "CHOICES": ["anc", "nco", "ncou", "anco"], "ANSWER": "anc"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 3)$$$?    ", "CHOICES": ["gi", "i", "in", "g"], "ANSWER": "g"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["fax", "Syntax error (illegal expression)", "x", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(7, 7)$$$?    ", "CHOICES": ["ria", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 7)$$$?    ", "CHOICES": ["en", "ene", "ne", "ner"], "ANSWER": "en"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(1, 7)$$$?    ", "CHOICES": ["innipe", "nnipeg", "innipeg", "g"], "ANSWER": "innipe"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(1, 5)$$$?    ", "CHOICES": ["alga", "algar", "lgary", "lgar"], "ANSWER": "alga"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 5)$$$?    ", "CHOICES": ["na", "n", "a", "gina"], "ANSWER": "n"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(2, 3)$$$?    ", "CHOICES": ["l", "if", "li", "i"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(6, 6)$$$?    ", "CHOICES": ["i", "Syntax error (illegal expression)", "an empty string", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "r", "ver", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(5, 5)$$$?    ", "CHOICES": ["x", "a", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 5)$$$?    ", "CHOICES": ["on", "ont", "nt", "nto"], "ANSWER": "on"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["a", "an empty string", "Syntax error (illegal expression)", "nia"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 6)$$$?    ", "CHOICES": ["bro", "br", "roo", "ro"], "ANSWER": "br"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "n", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 7)$$$?    ", "CHOICES": ["toria", "ria", "ia", "ri"], "ANSWER": "ri"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(4, 5)$$$?    ", "CHOICES": ["hawa", "a", "wa", "w"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(5, 5)$$$?    ", "CHOICES": ["x", "an empty string", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 6)$$$?    ", "CHOICES": ["ilt", "lto", "lton", "ilto"], "ANSWER": "ilt"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(4, 6)$$$?    ", "CHOICES": ["lt", "ton", "to", "lto"], "ANSWER": "lt"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 4)$$$?    ", "CHOICES": ["do", "o", "on", "d"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(5, 6)$$$?    ", "CHOICES": ["to", "oo", "o", "t"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 5)$$$?    ", "CHOICES": ["arnia", "ni", "ia", "nia"], "ANSWER": "ni"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 3)$$$?    ", "CHOICES": ["n", "Syntax error (illegal expression)", "i", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(5, 5)$$$?    ", "CHOICES": ["ina", "Syntax error (illegal expression)", "an empty string", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(2, 6)$$$?    ", "CHOICES": ["ilton", "milto", "milt", "ilto"], "ANSWER": "milt"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 5)$$$?    ", "CHOICES": ["ia", "arnia", "nia", "ni"], "ANSWER": "ni"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(5, 5)$$$?    ", "CHOICES": ["awa", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 4)$$$?    ", "CHOICES": ["w", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(1, 4)$$$?    ", "CHOICES": ["rnia", "arn", "rni", "arni"], "ANSWER": "arn"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 8)$$$?    ", "CHOICES": ["d", "an empty string", "Syntax error (illegal expression)", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(3, 4)$$$?    ", "CHOICES": ["na", "n", "in", "i"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(2, 4)$$$?    ", "CHOICES": ["if", "li", "lif", "ifa"], "ANSWER": "li"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 7)$$$?    ", "CHOICES": ["onton", "onto", "dmonton", "nton"], "ANSWER": "onto"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["nia", "a", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(4, 5)$$$?    ", "CHOICES": ["r", "u", "ur", "ry"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(5, 5)$$$?    ", "CHOICES": ["a", "an empty string", "Syntax error (illegal expression)", "awa"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(7, 7)$$$?    ", "CHOICES": ["ton", "Syntax error (illegal expression)", "n", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["a", "an empty string", "n", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(3, 3)$$$?    ", "CHOICES": ["o", "n", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(1, 4)$$$?    ", "CHOICES": ["sha", "haw", "hawa", "shaw"], "ANSWER": "sha"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(3, 5)$$$?    ", "CHOICES": ["ot", "ots", "tsf", "ts"], "ANSWER": "ot"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 4)$$$?    ", "CHOICES": ["an empty string", "i", "Syntax error (illegal expression)", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(4, 4)$$$?    ", "CHOICES": ["n", "Syntax error (illegal expression)", "o", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["o", "t", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(5, 7)$$$?    ", "CHOICES": ["on", "ton", "onton", "to"], "ANSWER": "to"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(8, 8)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "ner", "r", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "a", "ina", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(1, 6)$$$?    ", "CHOICES": ["x", "lifax", "alifa", "alifax"], "ANSWER": "alifa"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(5, 5)$$$?    ", "CHOICES": ["t", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(1, 5)$$$?    ", "CHOICES": ["algar", "alga", "lgary", "lgar"], "ANSWER": "alga"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(5, 6)$$$?    ", "CHOICES": ["o", "on", "to", "t"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(4, 7)$$$?    ", "CHOICES": ["nto", "monton", "ton", "nton"], "ANSWER": "nto"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "y", "an empty string", "ury"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(3, 3)$$$?    ", "CHOICES": ["w", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(6, 7)$$$?    ", "CHOICES": ["n", "o", "nton", "on"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 5)$$$?    ", "CHOICES": ["ri", "o", "r", "or"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 4)$$$?    ", "CHOICES": ["n", "Syntax error (illegal expression)", "a", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(3, 5)$$$?    ", "CHOICES": ["nia", "arnia", "ia", "ni"], "ANSWER": "ni"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(4, 6)$$$?    ", "CHOICES": ["ar", "ary", "ry", "lgary"], "ANSWER": "ar"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(1, 1)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "s", "h"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(2, 3)$$$?    ", "CHOICES": ["o", "bo", "b", "ot"], "ANSWER": "b"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(5, 6)$$$?    ", "CHOICES": ["oo", "t", "o", "to"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 4)$$$?    ", "CHOICES": ["gin", "gina", "egi", "egin"], "ANSWER": "egi"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 4)$$$?    ", "CHOICES": ["don", "ndo", "do", "nd"], "ANSWER": "nd"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "awa", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(7, 7)$$$?    ", "CHOICES": ["g", "Syntax error (illegal expression)", "peg", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(6, 7)$$$?    ", "CHOICES": ["eg", "e", "ipeg", "g"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 3)$$$?    ", "CHOICES": ["ga", "l", "lg", "g"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(2, 5)$$$?    ", "CHOICES": ["Ottawa", "tawa", "awa", "taw"], "ANSWER": "taw"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 8)$$$?    ", "CHOICES": ["for", "or", "fo", "ord"], "ANSWER": "fo"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "fax", "x", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["awa", "a", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(2, 3)$$$?    ", "CHOICES": ["ct", "to", "c", "t"], "ANSWER": "c"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 4)$$$?    ", "CHOICES": ["w", "n", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(1, 5)$$$?    ", "CHOICES": ["arnia", "a", "arni", "rnia"], "ANSWER": "arni"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(4, 5)$$$?    ", "CHOICES": ["t", "s", "ts", "sf"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "r", "Syntax error (illegal expression)", "ner"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(2, 5)$$$?    ", "CHOICES": ["kato", "ska", "kat", "skat"], "ANSWER": "ska"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(1, 4)$$$?    ", "CHOICES": ["elo", "lown", "low", "elow"], "ANSWER": "elo"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "n", "don"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 5)$$$?    ", "CHOICES": ["a", "w", "wa", "tawa"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "fax", "x", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 1)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "d", "an empty string", "u"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(3, 5)$$$?    ", "CHOICES": ["ur", "ury", "bur", "bu"], "ANSWER": "bu"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 5)$$$?    ", "CHOICES": ["on", "do", "don", "ondon"], "ANSWER": "do"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 5)$$$?    ", "CHOICES": ["awa", "Oshawa", "hawa", "haw"], "ANSWER": "haw"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(1, 1)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "m", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(3, 7)$$$?    ", "CHOICES": ["tori", "toria", "ictoria", "oria"], "ANSWER": "tori"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(4, 7)$$$?    ", "CHOICES": ["monton", "nto", "nton", "ton"], "ANSWER": "nto"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "k", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 9)$$$?    ", "CHOICES": ["d", "ford", "rd", "r"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 6)$$$?    ", "CHOICES": ["n", "ne", "en", "e"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(9, 9)$$$?    ", "CHOICES": ["e", "oke", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(3, 4)$$$?    ", "CHOICES": ["w", "ow", "o", "wn"], "ANSWER": "o"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(1, 1)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "a", "an empty string", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(2, 5)$$$?    ", "CHOICES": ["bur", "dbu", "bury", "dbur"], "ANSWER": "dbu"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["ver", "an empty string", "Syntax error (illegal expression)", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(3, 6)$$$?    ", "CHOICES": ["otsf", "tsf", "tsfo", "ots"], "ANSWER": "ots"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 6)$$$?    ", "CHOICES": ["ont", "nto", "oronto", "onto"], "ANSWER": "ont"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(3, 5)$$$?    ", "CHOICES": ["awa", "wa", "aw", "shawa"], "ANSWER": "aw"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(4, 5)$$$?    ", "CHOICES": ["na", "gina", "n", "a"], "ANSWER": "n"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "o", "t", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(7, 7)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "ton", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(4, 4)$$$?    ", "CHOICES": ["o", "Syntax error (illegal expression)", "an empty string", "u"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(5, 5)$$$?    ", "CHOICES": ["o", "t", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(2, 3)$$$?    ", "CHOICES": ["bu", "b", "db", "d"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(4, 5)$$$?    ", "CHOICES": ["tawa", "a", "w", "wa"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(1, 5)$$$?    ", "CHOICES": ["ondon", "ndon", "n", "ondo"], "ANSWER": "ondo"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(2, 3)$$$?    ", "CHOICES": ["i", "li", "l", "if"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(2, 2)$$$?    ", "CHOICES": ["l", "g", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(4, 6)$$$?    ", "CHOICES": ["ori", "ria", "ri", "or"], "ANSWER": "or"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(1, 3)$$$?    ", "CHOICES": ["el", "low", "lo", "elo"], "ANSWER": "el"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(8, 8)$$$?    ", "CHOICES": ["k", "e", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "a", "awa"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "ury", "Syntax error (illegal expression)", "y"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(2, 4)$$$?    ", "CHOICES": ["lif", "if", "ifa", "li"], "ANSWER": "li"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(8, 8)$$$?    ", "CHOICES": ["an empty string", "d", "r", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(3, 4)$$$?    ", "CHOICES": ["ar", "a", "g", "ga"], "ANSWER": "g"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(8, 8)$$$?    ", "CHOICES": ["e", "an empty string", "k", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(3, 3)$$$?    ", "CHOICES": ["f", "an empty string", "i", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(3, 5)$$$?    ", "CHOICES": ["wa", "shawa", "aw", "awa"], "ANSWER": "aw"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(1, 5)$$$?    ", "CHOICES": ["n", "ondo", "ndon", "ondon"], "ANSWER": "ondo"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(5, 5)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "p", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "a", "nia", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(3, 5)$$$?    ", "CHOICES": ["ttawa", "wa", "awa", "aw"], "ANSWER": "aw"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(3, 3)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "an empty string", "i"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(1, 4)$$$?    ", "CHOICES": ["dmon", "mont", "dmo", "mon"], "ANSWER": "dmo"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(4, 5)$$$?    ", "CHOICES": ["a", "r", "ry", "ar"], "ANSWER": "a"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(4, 5)$$$?    ", "CHOICES": ["n", "wn", "na", "w"], "ANSWER": "w"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(4, 6)$$$?    ", "CHOICES": ["ary", "ar", "lgary", "ry"], "ANSWER": "ar"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(4, 6)$$$?    ", "CHOICES": ["nt", "nto", "to", "ton"], "ANSWER": "nt"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(2, 7)$$$?    ", "CHOICES": ["couver", "ncouv", "couve", "ncouve"], "ANSWER": "ncouv"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["r", "ver", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["u", "d", "db", "ud"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(2, 4)$$$?    ", "CHOICES": ["cto", "tor", "to", "ct"], "ANSWER": "ct"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(5, 5)$$$?    ", "CHOICES": ["e", "Syntax error (illegal expression)", "an empty string", "p"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(1, 3)$$$?    ", "CHOICES": ["al", "lif", "li", "ali"], "ANSWER": "al"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(9, 9)$$$?    ", "CHOICES": ["an empty string", "oke", "Syntax error (illegal expression)", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(2, 2)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "i", "an empty string", "g"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["u", "ud", "db", "d"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(5, 7)$$$?    ", "CHOICES": ["en", "ne", "ner", "ene"], "ANSWER": "en"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(4, 4)$$$?    ", "CHOICES": ["n", "an empty string", "t", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(7, 7)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "n", "ton", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "o", "nto", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(2, 2)$$$?    ", "CHOICES": ["r", "Syntax error (illegal expression)", "an empty string", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(7, 7)$$$?    ", "CHOICES": ["r", "Syntax error (illegal expression)", "an empty string", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(3, 5)$$$?    ", "CHOICES": ["lto", "lt", "il", "ilt"], "ANSWER": "il"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(1, 4)$$$?    ", "CHOICES": ["icto", "ctor", "ict", "cto"], "ANSWER": "ict"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(4, 6)$$$?    ", "CHOICES": ["lifax", "ax", "fa", "fax"], "ANSWER": "fa"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(4, 9)$$$?    ", "CHOICES": ["brooke", "erbrooke", "brook", "rooke"], "ANSWER": "brook"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["ia", "i", "rnia", "a"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(6, 6)$$$?    ", "CHOICES": ["o", "f", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(1, 2)$$$?    ", "CHOICES": ["e", "gi", "eg", "g"], "ANSWER": "e"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["o", "Syntax error (illegal expression)", "an empty string", "t"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 3)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "d", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Regina\".substring(3, 4)$$$?    ", "CHOICES": ["na", "i", "in", "n"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(1, 2)$$$?    ", "CHOICES": ["h", "ha", "sh", "s"], "ANSWER": "s"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(3, 5)$$$?    ", "CHOICES": ["hen", "he", "che", "ch"], "ANSWER": "ch"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(1, 3)$$$?    ", "CHOICES": ["nd", "on", "ndo", "ond"], "ANSWER": "on"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(5, 5)$$$?    ", "CHOICES": ["t", "an empty string", "Syntax error (illegal expression)", "o"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "x", "an empty string", "fax"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(5, 5)$$$?    ", "CHOICES": ["a", "nia", "an empty string", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "awa", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(2, 4)$$$?    ", "CHOICES": ["ha", "aw", "awa", "haw"], "ANSWER": "ha"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(2, 4)$$$?    ", "CHOICES": ["nia", "rn", "ni", "rni"], "ANSWER": "rn"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(3, 5)$$$?    ", "CHOICES": ["ts", "tsf", "ots", "ot"], "ANSWER": "ot"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(2, 6)$$$?    ", "CHOICES": ["Kelowna", "owna", "lown", "lowna"], "ANSWER": "lown"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 4)$$$?    ", "CHOICES": ["on", "do", "d", "o"], "ANSWER": "d"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 5)$$$?    ", "CHOICES": ["rnia", "a", "i", "ia"], "ANSWER": "i"}
+{"QUESTION": "What is the return value of $$$\"Oshawa\".substring(1, 5)$$$?    ", "CHOICES": ["shaw", "hawa", "shawa", "a"], "ANSWER": "shaw"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(5, 6)$$$?    ", "CHOICES": ["i", "ia", "ri", "r"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(4, 4)$$$?    ", "CHOICES": ["i", "Syntax error (illegal expression)", "p", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(3, 7)$$$?    ", "CHOICES": ["couve", "couv", "ouve", "ouver"], "ANSWER": "couv"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(6, 6)$$$?    ", "CHOICES": ["an empty string", "fax", "Syntax error (illegal expression)", "x"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Edmonton\".substring(5, 7)$$$?    ", "CHOICES": ["to", "on", "ton", "onton"], "ANSWER": "to"}
+{"QUESTION": "What is the return value of $$$\"Abbotsford\".substring(5, 9)$$$?    ", "CHOICES": ["sfor", "ford", "otsford", "sford"], "ANSWER": "sfor"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(3, 3)$$$?    ", "CHOICES": ["n", "o", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Halifax\".substring(3, 3)$$$?    ", "CHOICES": ["i", "Syntax error (illegal expression)", "an empty string", "f"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Kelowna\".substring(2, 3)$$$?    ", "CHOICES": ["ow", "l", "lo", "o"], "ANSWER": "l"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(5, 6)$$$?    ", "CHOICES": ["bury", "ry", "y", "r"], "ANSWER": "r"}
+{"QUESTION": "What is the return value of $$$\"Victoria\".substring(7, 7)$$$?    ", "CHOICES": ["ria", "an empty string", "Syntax error (illegal expression)", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(9, 9)$$$?    ", "CHOICES": ["an empty string", "e", "oke", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(3, 3)$$$?    ", "CHOICES": ["i", "n", "Syntax error (illegal expression)", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(3, 4)$$$?    ", "CHOICES": ["ni", "n", "ip", "i"], "ANSWER": "n"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "peg", "g", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(5, 5)$$$?    ", "CHOICES": ["o", "Syntax error (illegal expression)", "t", "an empty string"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(2, 2)$$$?    ", "CHOICES": ["d", "Syntax error (illegal expression)", "an empty string", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Winnipeg\".substring(1, 7)$$$?    ", "CHOICES": ["innipeg", "innipe", "nnipeg", "g"], "ANSWER": "innipe"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(3, 3)$$$?    ", "CHOICES": ["o", "an empty string", "d", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Ottawa\".substring(2, 3)$$$?    ", "CHOICES": ["a", "t", "aw", "ta"], "ANSWER": "t"}
+{"QUESTION": "What is the return value of $$$\"Hamilton\".substring(4, 4)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "l", "t"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(8, 8)$$$?    ", "CHOICES": ["oon", "an empty string", "n", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(6, 8)$$$?    ", "CHOICES": ["oon", "atoon", "oo", "on"], "ANSWER": "oo"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["db", "ud", "u", "d"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"Kitchener\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "n", "e"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Vancouver\".substring(8, 8)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "an empty string", "ver", "r"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(3, 3)$$$?    ", "CHOICES": ["g", "an empty string", "a", "Syntax error (illegal expression)"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sarnia\".substring(4, 4)$$$?    ", "CHOICES": ["i", "an empty string", "Syntax error (illegal expression)", "a"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Saskatoon\".substring(7, 7)$$$?    ", "CHOICES": ["an empty string", "o", "Syntax error (illegal expression)", "n"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sudbury\".substring(1, 2)$$$?    ", "CHOICES": ["ud", "d", "u", "db"], "ANSWER": "u"}
+{"QUESTION": "What is the return value of $$$\"London\".substring(5, 5)$$$?    ", "CHOICES": ["an empty string", "Syntax error (illegal expression)", "n", "don"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Calgary\".substring(6, 6)$$$?    ", "CHOICES": ["Syntax error (illegal expression)", "ary", "an empty string", "y"], "ANSWER": "an empty string"}
+{"QUESTION": "What is the return value of $$$\"Sherbrooke\".substring(3, 5)$$$?    ", "CHOICES": ["rbr", "br", "rb", "bro"], "ANSWER": "rb"}
+{"QUESTION": "What is the return value of $$$\"Toronto\".substring(6, 6)$$$?    ", "CHOICES": ["o", "Syntax error (illegal expression)", "an empty string", "nto"], "ANSWER": "an empty string"}
