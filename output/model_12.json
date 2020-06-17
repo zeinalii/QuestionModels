@@ -1,0 +1,500 @@
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Compare", "animal", "CAR"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareSpeed ", "send", "copyboard", "remove"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "PLAYER", "Car", "Plane"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getminimum", "getboard", "findmaximum", "get"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Board", "Player", "BIRD"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Send", "playerArea", "birdSize", "size"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["age", "speed ", "goto", "end"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Player", "car", "Board"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalId", "carSpeed ", "implements", "for"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getBird", "sendPlane", "compareid", "sendage"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["area", "else", "PLANE", "Remove"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["maximum", "animal", "Animal", "Bird"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Animal", "Animal", "Animal"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Clone", "else", "implements", "area"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["get", "findPlayer", "copyAngle", "getanimal"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardSpeed ", "class", "playerId", "id"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["minimum", "animal", "Bird", "Animal"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Car", "Car", "Plane"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clone", "print", "clonemin", "find"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["print", "printage", "removepoint", "deleteLast"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "bird", "Car", "last"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Plane", "BIRD", "CAR"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printFirst", "findminimum", "clone", "cloneId"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BOARD", "CAR", "while", "length"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getid", "print", "delete", "compareMinimum"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparelength", "printMinimum", "clone", "findLast"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printLength", "sendspeed ", "printId", "sendSpeed "], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Get", "speed ", "PLANE", "class"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeSpeed ", "goto", "playerSpeed ", "PLAYER"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "planeSpeed ", "while", "goto"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carAngle", "PLANE", "while", "class"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Bird", "animal", "Animal"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "BOARD", "PLAYER", "board"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "Send", "area", "birdLength"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["animal", "Animal", "end", "max"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["CAR", "animalAge", "playerName", "goto"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "length", "class", "id"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendspeed ", "removeAngle", "delete", "compareSpeed "], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneBird", "printArea", "printangle", "cloneid"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Compare", "first", "Copy"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "BIRD", "for", "animalAngle"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "for", "boardLength", "boardAge"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copy", "deleteage", "copyId", "sendpoint"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["PLANE", "Get", "bird", "Bird"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparelast", "compare", "getFinal", "deleteLength"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Car", "Bird", "Animal"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Clone", "Print", "ANIMAL", "Board"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["goto", "car", "Animal", "Board"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneCar", "printAngle", "removemax", "copyName"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getlast", "sendArea", "remove", "remove"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["delete", "findsize", "printfirst", "deletePoint"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparespeed ", "printmax", "clonemin", "printplayer"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardArea", "animalName", "birdSpeed ", "size"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "birdAge", "Remove", "playerAngle"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findname", "deletepoint", "delete", "send"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Bird", "max", "Board"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Bird", "Player", "Print"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["find", "copySpeed ", "compareFirst", "getarea"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerSpeed ", "BIRD", "boardId", "carArea"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["size", "for", "else", "birdSize"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "car", "Animal", "bird"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findMin", "get", "copymaximum", "clonename"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BIRD", "class", "player", "car"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "point", "birdSpeed ", "else"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "BIRD", "boardPoint", "for"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carName", "animalAngle", "animalPoint", "carAge"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["print", "sendSpeed ", "deletemaximum", "findbird"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneangle", "copyLength", "getBird", "remove"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getSpeed ", "get", "compareboard", "printArea"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdName", "for", "playerId", "planeAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdAngle", "goto", "playerPoint", "name"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "Copy", "carLength", "end"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["print", "send", "copy", "copyLength"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletefinal", "getspeed ", "compare", "compare"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "board", "max", "Animal"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalSpeed ", "while", "name", "boardAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clonepoint", "comparemax", "sendMaximum", "getanimal"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["get", "getmin", "getFinal", "getmax"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Print", "Bird", "Animal", "Player"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["id", "speed ", "name", "animalAngle"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "CAR", "Board", "Animal"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Plane", "Animal", "maximum"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Delete", "Animal", "plane", "max"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeName", "boardAge", "else", "Compare"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "boardSpeed ", "birdAngle", "class"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Copy", "BOARD", "Animal"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["bird", "Player", "last", "bird"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carId", "class", "planeSize", "class"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdArea", "implements", "for", "PLANE"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "bird", "Player", "Car"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removefirst", "compareage", "comparecar", "find"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["length", "age", "size", "id"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["while", "Get", "car", "Plane"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Remove", "angle", "goto", "end"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "planeSpeed ", "planeSize", "class"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdLength", "ANIMAL", "birdSpeed ", "while"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["max", "Animal", "Send", "plane"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["else", "Bird", "animal", "Animal"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "carPoint", "playerAge", "PLAYER"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Send", "Animal", "while", "Animal"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Delete", "Get", "Board"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardSize", "Copy", "PLANE", "for"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printPlayer", "compareId", "clonepoint", "getage"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["get", "removepoint", "removeplane", "copy"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["class", "name", "carId", "boardPoint"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["animal", "Print", "Board", "minimum"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compare", "deleteAge", "compareAge", "clone"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "implements", "Send", "Clone"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareboard", "sendangle", "sendCar", "compareId"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BOARD", "size", "planeSize", "carName"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["name", "animalSize", "speed ", "point"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Remove", "last", "else", "Plane"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardId", "playerName", "planeAngle", "area"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Print", "birdAngle", "planeArea", "BOARD"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["CAR", "boardLength", "animalSize", "boardAge"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removespeed ", "findSize", "print", "compare"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copy", "deleteMax", "copylength", "remove"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "while", "while", "birdPoint"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["else", "playerAge", "angle", "playerAngle"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Send", "last", "first", "Print"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getlength", "delete", "findAngle", "cloneArea"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Copy", "carLength", "boardId", "Delete"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["PLANE", "Plane", "Animal", "Get"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardArea", "class", "playerName", "Remove"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLANE", "birdSpeed ", "Clone", "while"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Delete", "player", "plane", "player"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carSize", "CAR", "playerPoint", "boardAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdName", "BIRD", "point", "Compare"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareanimal", "copyAge", "clonePlane", "comparespeed "], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Get", "birdArea", "playerAngle", "implements"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalName", "Delete", "Clone", "point"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Player", "Get", "Bird"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copySpeed ", "getmaximum", "findAngle", "removefirst"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["size", "Compare", "birdName", "planeLength"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Print", "Animal", "Remove", "Animal"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendArea", "getAnimal", "removeMinimum", "removeMin"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "id", "planeArea", "speed "], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalAngle", "BOARD", "implements", "age"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Compare", "Clone", "Get", "Plane"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printCar", "removeAge", "printBird", "sendAngle"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removefirst", "printBird", "deletePoint", "findId"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["CAR", "angle", "while", "boardAge"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "BIRD", "playerSpeed ", "planeArea"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendSize", "deleteMax", "printname", "findlast"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["else", "CAR", "min", "car"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BIRD", "boardSpeed ", "Delete", "speed "], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "for", "for", "planeSize"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Plane", "else", "CAR"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printminimum", "comparePoint", "getName", "sendName"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "BOARD", "birdArea", "else"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Get", "Find", "Animal", "Plane"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Animal", "first", "Get"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removeLast", "comparemaximum", "compare", "cloneArea"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerSize", "animalAge", "playerArea", "carAge"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeAngle", "for", "playerAngle", "PLANE"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "birdSize", "birdPoint", "class"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Car", "Animal", "plane"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findId", "send", "findLength", "delete"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Remove", "class", "carId", "birdAge"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Player", "Animal", "Player"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["length", "PLAYER", "boardArea", "Compare"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["send", "deletefirst", "print", "findSize"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneCar", "get", "getName", "find"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BIRD", "BOARD", "end", "animalSpeed "], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeLength", "length", "Print", "birdId"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["first", "Plane", "Board", "Animal"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "implements", "Player", "plane"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalSpeed ", "PLANE", "Remove", "size"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Get", "Bird", "CAR", "Player"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardPoint", "end", "planeAngle", "birdName"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalId", "playerAngle", "end", "size"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["print", "removeAngle", "send", "printArea"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareSize", "cloneArea", "getAngle", "findid"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BOARD", "playerName", "implements", "goto"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clonemin", "compareCar", "print", "clonefinal"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["PLANE", "Plane", "Remove", "board"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carName", "boardSize", "Find", "while"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clone", "get", "copy", "deleteLast"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removePoint", "compareage", "clonename", "clonePlane"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendPoint", "deletePoint", "removesize", "removepoint"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Bird", "player", "Bird"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Animal", "Bird", "Plane"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["else", "while", "Delete", "end"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "ANIMAL", "Player", "implements"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printPoint", "delete", "getsize", "deleteMinimum"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Clone", "first", "Animal"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Board", "Copy", "Player"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Delete", "Player", "Animal", "Bird"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdName", "class", "while", "playerAngle"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printPlane", "send", "removeAge", "clonePoint"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "PLAYER", "Player", "Car"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareArea", "clone", "copymax", "copy"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copy", "getLast", "clone", "copyMaximum"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["CAR", "Bird", "plane", "Plane"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Remove", "player", "Player", "plane"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "while", "carSpeed ", "goto"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["name", "length", "BIRD", "implements"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["while", "Bird", "Get", "Board"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Print", "Plane", "Board"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Find", "Animal", "player"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["first", "plane", "Animal", "Animal"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "name", "Compare", "length"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clonearea", "cloneName", "findLength", "cloneid"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Animal", "Plane", "minimum"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "PLAYER", "class", "class"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalSize", "boardPoint", "point", "PLANE"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneLast", "clonesize", "getmin", "sendspeed "], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletelast", "printPlane", "deletecar", "remove"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["while", "BOARD", "Car", "Copy"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "board", "while", "PLANE"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Car", "Copy", "Player"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clonearea", "findboard", "deletepoint", "removearea"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Delete", "Car", "Delete"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeSpeed ", "Print", "else", "planeSpeed "], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Find", "class", "PLAYER", "implements"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printPlayer", "cloneAnimal", "send", "deleteMax"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparesize", "deletelast", "comparelast", "remove"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLANE", "PLAYER", "birdAngle", "class"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "planeName", "for", "boardName"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findAngle", "get", "clone", "cloneAngle"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerArea", "BOARD", "playerLength", "else"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Get", "size", "carName", "animalSpeed "], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLAYER", "PLAYER", "while", "birdLength"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["ANIMAL", "class", "planeSpeed ", "Copy"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeAge", "Get", "ANIMAL", "Clone"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerLength", "birdAngle", "end", "implements"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Board", "ANIMAL", "BIRD"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneMin", "removeplayer", "cloneArea", "clone"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Plane", "Remove", "class"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removelength", "cloneangle", "removemaximum", "getsize"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "animal", "board", "ANIMAL"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendmin", "sendSpeed ", "find", "getMaximum"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["id", "for", "while", "else"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["id", "Send", "length", "Clone"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "else", "else", "implements"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["ANIMAL", "Send", "plane", "Board"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareArea", "deletebird", "delete", "remove"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "ANIMAL", "plane", "Bird"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "id", "planeName", "class"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printanimal", "copy", "find", "compareLast"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendSize", "copyboard", "deleteBoard", "printmaximum"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getboard", "remove", "getsize", "get"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "implements", "Board", "Board"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Send", "name", "class", "carArea"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "implements", "Car", "Clone"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["final", "Find", "bird", "BIRD"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Clone", "Bird", "Board", "player"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carPoint", "Clone", "boardArea", "birdArea"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletepoint", "print", "cloneplane", "printSize"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removelast", "copy", "deleteMinimum", "findArea"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Delete", "planeSize", "goto", "BOARD"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "angle", "id", "goto"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["car", "Copy", "Bird", "PLANE"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyage", "getSize", "deleteId", "find"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["maximum", "Board", "Remove", "Car"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLAYER", "while", "boardSize", "speed "], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneanimal", "removeAnimal", "compareLength", "removefirst"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "name", "goto", "playerArea"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Board", "Animal", "Board"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "end", "class", "birdPoint"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Get", "min", "Car", "BIRD"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Print", "Find", "carArea", "animalSize"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removearea", "findFinal", "comparelength", "compare"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendage", "printlast", "delete", "copy"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["bird", "Plane", "Copy", "Bird"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Remove", "for", "carSize", "boardAge"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Find", "birdArea", "while", "for"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["class", "CAR", "else", "speed "], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "BIRD", "animal", "Send"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getFirst", "deleteCar", "removeCar", "getarea"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Compare", "BOARD", "playerSpeed ", "while"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removeage", "printSize", "printId", "get"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "CAR", "Bird", "final"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["PLAYER", "Animal", "Animal", "Clone"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getAngle", "compare", "sendfinal", "deleteArea"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printFinal", "copy", "sendPlayer", "findMinimum"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "ANIMAL", "Animal", "Player"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planePoint", "speed ", "speed ", "area"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Get", "birdPoint", "BIRD", "playerAngle"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerAngle", "Delete", "playerId", "length"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Get", "BIRD", "Car", "Animal"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removePlayer", "getname", "send", "remove"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printminimum", "delete", "findage", "compareid"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["id", "class", "carAge", "id"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copy", "printAngle", "removeage", "findSpeed "], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyAge", "findid", "clone", "findmaximum"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "planeLength", "ANIMAL", "animalArea"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findfirst", "deleteFirst", "clone", "copyLast"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyMinimum", "printfinal", "printsize", "printangle"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "animalArea", "goto", "goto"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Copy", "animalLength", "implements", "id"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendplayer", "cloneid", "remove", "print"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["else", "animalAngle", "birdLength", "implements"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdLength", "goto", "speed ", "for"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Get", "first", "PLAYER", "Animal"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalAge", "Remove", "boardPoint", "name"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["goto", "minimum", "Send", "Copy"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["area", "Copy", "animalAngle", "end"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["size", "BIRD", "carAge", "goto"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletemaximum", "getmax", "deletefirst", "compare"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["delete", "findplayer", "sendcar", "compareAngle"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "animalAge", "boardName", "boardName"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareLength", "compareid", "findAge", "cloneAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["send", "comparelength", "findpoint", "delete"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getAnimal", "cloneArea", "getarea", "printangle"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Animal", "Player", "Copy"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findLength", "find", "removesize", "findLength"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Find", "planeSize", "Send", "boardPoint"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeAngle", "CAR", "animalSize", "class"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "PLANE", "playerId", "carName"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletename", "copyfinal", "findLast", "remove"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Copy", "planeLength", "else", "Get"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Clone", "Bird", "Animal", "Player"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "goto", "while", "playerName"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printSpeed ", "sendsize", "copy", "copymaximum"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Plane", "Animal", "BOARD"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "plane", "Send", "Car"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneFinal", "compare", "find", "getName"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneFirst", "print", "copyid", "delete"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["first", "Car", "Player", "Player"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BOARD", "BOARD", "end", "point"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendlast", "getAngle", "clone", "printFirst"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["player", "Copy", "Player", "Car"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "board", "Clone", "Print"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Clone", "plane", "Bird", "Board"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerName", "goto", "Remove", "birdAngle"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyAngle", "printage", "sendMin", "sendMinimum"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["id", "Delete", "else", "Compare"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Find", "Animal", "Animal", "Bird"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["plane", "end", "Board", "min"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Bird", "Board", "CAR"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findFinal", "copyangle", "removeArea", "printcar"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["implements", "Animal", "PLANE", "Animal"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["angle", "birdAge", "playerSize", "while"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLANE", "class", "carName", "else"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["board", "Plane", "Car", "Bird"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carSpeed ", "while", "ANIMAL", "ANIMAL"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Player", "Player", "plane"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Find", "Plane", "else", "Print"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendfirst", "findPoint", "printLength", "printage"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BOARD", "Copy", "BIRD", "Player"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["end", "Bird", "else", "while"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardSize", "for", "ANIMAL", "birdLength"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Plane", "PLAYER", "plane"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalPoint", "BOARD", "carPoint", "Get"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparePlane", "compareSpeed ", "cloneId", "deletecar"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendplane", "getLast", "cloneplayer", "copy"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["print", "sendfirst", "copysize", "printangle"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Print", "Car", "Animal", "Bird"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["class", "animalSpeed ", "Remove", "Delete"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Animal", "car", "class"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["plane", "PLAYER", "Board", "Bird"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["last", "Plane", "Send", "Player"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["area", "birdPoint", "else", "boardName"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Send", "Animal", "Delete", "Bird"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["class", "animalArea", "class", "Print"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["ANIMAL", "else", "Get", "birdSpeed "], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "BOARD", "last", "Animal"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Remove", "while", "size", "PLAYER"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareArea", "print", "deleteSpeed ", "compare"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findBird", "deletePlane", "delete", "copy"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Bird", "Compare", "Animal"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["ANIMAL", "birdAngle", "birdSize", "Get"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["while", "Player", "min", "PLAYER"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findSpeed ", "copy", "clone", "copySize"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Find", "Print", "Send", "implements"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BIRD", "player", "CAR", "Animal"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BIRD", "end", "Copy", "Get"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getLength", "clonemin", "clonename", "getName"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "speed ", "playerName", "boardName"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["cloneMaximum", "copy", "printboard", "send"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "boardAngle", "birdAngle", "for"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["car", "maximum", "Player", "while"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["CAR", "min", "board", "ANIMAL"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Compare", "Animal", "final", "Plane"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["planeName", "birdSpeed ", "birdSize", "carName"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getMaximum", "find", "copyCar", "findpoint"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deleteLast", "printplane", "send", "removemin"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLAYER", "point", "BIRD", "length"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "animalSpeed ", "speed ", "boardSize"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findspeed ", "getarea", "getArea", "findmin"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["length", "BIRD", "while", "goto"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLANE", "playerAngle", "BIRD", "birdArea"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carAge", "Find", "birdAngle", "else"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["BIRD", "BIRD", "point", "birdPoint"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["class", "BIRD", "Board", "Plane"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compare", "printSpeed ", "printname", "printSpeed "], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["point", "carLength", "birdPoint", "PLANE"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Board", "maximum", "CAR"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Player", "board", "max"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerSpeed ", "for", "boardSpeed ", "carLength"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removespeed ", "getPoint", "findPoint", "comparelast"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "Compare", "end", "animalPoint"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findplane", "printid", "copySize", "clone"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Print", "Plane", "Bird"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getLength", "remove", "copySpeed ", "deletearea"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carName", "birdAge", "birdAge", "carSpeed "], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removeName", "get", "cloneminimum", "findPlayer"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["getPlayer", "deletepoint", "deletecar", "print"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Plane", "Find", "Bird"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendBoard", "send", "getBird", "getname"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalLength", "boardArea", "speed ", "Print"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdAge", "length", "area", "length"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["find", "compareFinal", "removeArea", "cloneFirst"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Animal", "max", "Compare"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BOARD", "Find", "Bird", "Player"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["animal", "Animal", "Remove", "else"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["for", "Player", "Plane", "plane"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "BOARD", "while", "end"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findspeed ", "sendMinimum", "printFirst", "compareMinimum"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Player", "Board", "Player"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["board", "board", "player", "player"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deletespeed ", "find", "clone", "printpoint"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["comparelast", "removeName", "delete", "find"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "name", "while", "end"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Remove", "Car", "Board", "Player"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["carArea", "Clone", "boardAngle", "planeAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["CAR", "Player", "Player", "player"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "animal", "PLANE", "ANIMAL"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["else", "boardArea", "playerSize", "animalName"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["area", "PLAYER", "animalSpeed ", "while"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "Animal", "CAR", "maximum"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "maximum", "Player", "Player"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Find", "car", "goto", "board"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "plane", "car", "goto"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyLast", "copybird", "sendcar", "sendspeed "], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["name", "Delete", "PLANE", "name"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["implements", "Animal", "ANIMAL", "Car"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "player", "Board", "plane"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "planeSpeed ", "carId", "name"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["delete", "send", "find", "delete"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["findAngle", "sendSize", "deleteMin", "copyId"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["last", "animal", "BIRD", "board"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Clone", "Car", "PLAYER", "Player"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["size", "playerId", "Delete", "goto"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "end", "carArea", "Delete"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalId", "Print", "birdArea", "goto"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["remove", "cloneSpeed ", "find", "compareId"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Car", "Animal", "Board"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Plane", "Bird", "Animal", "Board"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["clone", "comparelength", "removeArea", "printfirst"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["ANIMAL", "Bird", "Animal", "player"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Copy", "Plane", "animal", "Plane"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardPoint", "Compare", "Send", "CAR"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["find", "findmin", "get", "removespeed "], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "planeArea", "playerSize", "animalAngle"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "speed ", "birdArea", "else"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["player", "Board", "Plane", "car"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["animal", "Animal", "goto", "Copy"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "birdArea", "planeSize", "animalId"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerLength", "end", "birdId", "playerSize"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareage", "removeArea", "sendid", "removeage"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["find", "clone", "deleteLength", "print"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["BIRD", "player", "player", "Bird"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["point", "CAR", "animalLength", "playerId"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["speed ", "id", "class", "Find"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["removeMax", "findpoint", "clone", "send"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["length", "carPoint", "implements", "animalAge"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "boardAge", "BOARD", "ANIMAL"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "planeArea", "BIRD", "length"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["send", "delete", "comparesize", "deleteName"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["find", "getboard", "comparemax", "sendid"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["class", "Compare", "Copy", "Car"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["playerId", "planeAge", "animalAngle", "while"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareboard", "deleteminimum", "remove", "cloneAngle"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["PLAYER", "while", "else", "playerId"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["goto", "implements", "boardAngle", "class"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "board", "Bird", "Plane"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Get", "maximum", "Bird"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyAge", "clone", "deletearea", "sendSize"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Send", "maximum", "Get", "Bird"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["copyFirst", "printfirst", "compareAge", "sendangle"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["goto", "Bird", "Car", "PLAYER"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["bird", "CAR", "Bird", "max"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["end", "min", "Compare", "Car"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Board", "Get", "class", "BOARD"], "ANSWER": "[True, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["sendboard", "findpoint", "get", "find"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["printId", "getName", "copy", "copyPlane"], "ANSWER": "[True, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Delete", "Clone", "Bird", "animal"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["while", "Clone", "PLANE", "carLength"], "ANSWER": "[False, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["send", "clonemax", "findboard", "printId"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["bird", "Clone", "Plane", "Player"], "ANSWER": "[False, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["ANIMAL", "Get", "player", "end"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["implements", "animalAngle", "implements", "area"], "ANSWER": "[False, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Bird", "Board", "ANIMAL", "minimum"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["angle", "BIRD", "planeArea", "planeAge"], "ANSWER": "[True, False, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["Delete", "boardArea", "Clone", "Delete"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["delete", "delete", "printBoard", "comparearea"], "ANSWER": "[False, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["for", "goto", "Get", "CAR"], "ANSWER": "[False, False, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["end", "length", "animalId", "ANIMAL"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Car", "Animal", "Compare", "Bird"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Animal", "BOARD", "final", "Car"], "ANSWER": "[True, False, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["compareboard", "removeLast", "send", "clone"], "ANSWER": "[False, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["Player", "Car", "animal", "Player"], "ANSWER": "[True, True, False, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["animal", "Car", "Plane", "Car"], "ANSWER": "[False, True, True, True]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be class?", "CHOICES": ["plane", "Bird", "Board", "Print"], "ANSWER": "[False, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["animalLength", "animalId", "area", "CAR"], "ANSWER": "[True, True, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["birdId", "goto", "carSize", "BIRD"], "ANSWER": "[True, False, True, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be variable?", "CHOICES": ["boardPoint", "playerName", "else", "PLANE"], "ANSWER": "[True, True, False, False]"}
+{"QUESTION": "According to Java naming convention, which of the following names can be method?", "CHOICES": ["deleteanimal", "printId", "clonePlane", "clone"], "ANSWER": "[False, True, True, False]"}
